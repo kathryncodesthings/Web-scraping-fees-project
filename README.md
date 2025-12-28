@@ -18,16 +18,13 @@ This project assesses the extent of this dependency and evaluates how UCL compar
 ### Approach
 
 #### Project overview
-*outline of the project steps and outputs*
-
 I prioritised tasks based on available time and data. Instead of analysing 160+ UK universities, I focused on UCL’s closest competitors, the [Russell Group](https://www.russellgroup.ac.uk/), which is an alliance of universities known for high-quality research and attracting international students.
 
 * Established requirements (see above)
 * Obtained data
-* Cleaned and initial investigation of data
+* Cleaned and initial exploration of data
 * Combined and visualised data
-* Investigated further
-* Drew concolusions
+* Drew conclusions
 * Presented results
 
 #### Data
@@ -45,16 +42,30 @@ Samples from relevant notebooks are linked below.
 * Web scraping fee data ([**example** code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Data%20Scraping%20-%20Bristol%20UG%20course%20data.ipynb))
 * Cleaning fee data and intitial visualisation of fee data ([sample of code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Fee%20data%20cleaning%2C%20exploration%20and%20visualisation%20part%201.ipynb))
 * Visualising student demographic data from HESA ([sample of code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Visualise%20students%20by%20country.ipynb))
-* combined and visualised data to show estimates of different universities' reliance on fees from overseas students ([code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Fee%20data%20cleaning%20and%20combination%20with%20income%20and%20student%20demographic%20data.ipynb)
-* investigated further
+* combined and visualised data to show estimates of different universities' reliance on fees from overseas students ([sample code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Fee%20data%20cleaning%20and%20combination%20with%20income%20and%20student%20demographic%20data.ipynb))
+* summarised and presented findings
   
 ### Conclusions
-The key finding is that UCL has the most income in £ terms from international students among RG universities, primarily from China. UCL has fewer students from India, indicating growth potential. King's and Manchester also have higher international fee income, mainly from China. 
+To understand the financial impacts of losing students and the relative positions of the Russell Group universities, I began by visualising average PG fees. This shows that fees are generally around the £30-20k range, with a few universities charging more.
 
-Some universities, like LSE and Imperial, show varied intakes but still concentrated around a few countries. This dependence on specific countries poses financial risks. 
-In case of a drop in international students, intense competition would arise to recruit from the smaller pool of international students, given the financial impact of losing this income.
+To understand the estimated financial risks, I visualised the average fee, multiplied by students from each country for 21/22. The largest amount of income by far comes from China and HK (£6.8bn).
+
+![Average fee, multiplied by students from each country for 21/22](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Financial%20exposure%20by%20country.png "Average fee, multiplied by students from each country for 21/22")
+
+Next, I visualised this on a university-by-university basis, showing the estimated revenue by country for each university. UCL has the highest international fee income, particularly from China, as do KCL, Manchester, Glasgow and Edinburgh.  Some universities, like LSE and Imperial, show varied intakes but still concentrated around a few countries. This dependence on specific countries poses financial risks. 
+
+![Estimated revenue for each country by university](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/university%20income%20exposure%20by%20country.png "Estimated revenue for each country by university")
+
+I also calculated the estimated income from Chinese student fees as a percentage of income. The visualisation shows Glasgow, Manchester, Sheffield, Southampton and UCL are more reliant on income from these students. 
+
+![Estimaged revenue from Chinese student fees as a % of income](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Est%20income%20percent%20from%20Chinese%20students.png "Estimated income from Chinese student fees as a percentage of income")
+
+In the case of a drop in international students, intense competition would arise to recruit from the smaller pool of international students, given the huge financial impact of losing this income.
 
 ### Impact
+I reported that the data shows universities could mitigate risks by diversifying recruitment, especially in countries where they are underrepresented. Opportunities could exist in other markets, and I recommended further investigation of the data.
+
+In case of a significant drop in international students, intense competition from other Russell universities is expected. From the data I have provided, it shows that this could be a substantial impact on income. Developing a data-driven recruitment strategy targeting specific student groups would be beneficial. 
 
 ### Possible improvemnts
 #### Data refresh
