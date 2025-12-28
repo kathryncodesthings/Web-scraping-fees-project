@@ -1,0 +1,2214 @@
+,University,Country,Financial Exposure
+0,Cardiff University,Australia,188514.19925512106
+1,Cardiff University,Austria,126770.83333333334
+2,Cardiff University,Azerbaijan,126770.83333333334
+3,Cardiff University,Bahrain,380312.5
+4,Cardiff University,Bangladesh,1117948.7895716946
+5,Cardiff University,Belgium,253541.6666666667
+6,Cardiff University,Bermuda,126770.83333333334
+7,Cardiff University,Brunei,630570.0651769087
+8,Cardiff University,Bulgaria,1137653.398510242
+9,Cardiff University,Canada,809231.9599627561
+10,Cardiff University,Cayman Islands,126770.83333333334
+11,Cardiff University,China,66013499.185288645
+12,Cardiff University,Cyprus (European Union),2844133.4962756056
+13,Cardiff University,Czech Republic,377028.3985102421
+14,Cardiff University,Denmark,126770.83333333334
+15,Cardiff University,Egypt,377028.3985102421
+16,Cardiff University,European Union not otherwise specified,61743.36592178771
+17,Cardiff University,Finland,126770.83333333334
+18,Cardiff University,France,1514681.7970204842
+19,Cardiff University,Germany,1007598.4636871509
+20,Cardiff University,Ghana,432203.5614525139
+21,Cardiff University,Gibraltar,377028.3985102421
+22,Cardiff University,Greece,2011912.8258845438
+23,Cardiff University,Hong Kong (SAR),6546105.912476723
+24,Cardiff University,Hungary,377028.3985102421
+25,Cardiff University,India,20925741.969273742
+26,Cardiff University,Indonesia,624001.8621973929
+28,Cardiff University,Iran,500515.1303538175
+29,Cardiff University,Iraq,246973.46368715083
+30,Cardiff University,Ireland,1820114.5251396648
+31,Cardiff University,Israel,126770.83333333334
+32,Cardiff University,Italy,942570.9962756053
+33,Cardiff University,Japan,250257.56517690874
+34,Cardiff University,Jordan,754056.7970204842
+35,Cardiff University,Kazakhstan,250257.56517690874
+36,Cardiff University,Kenya,1573141.061452514
+37,Cardiff University,Korea (South),377028.3985102421
+38,Cardiff University,Kuwait,2382373.02141527
+39,Cardiff University,Latvia,126770.83333333334
+40,Cardiff University,Lebanon,373744.29702048417
+41,Cardiff University,Lithuania,253541.6666666667
+42,Cardiff University,Luxembourg,253541.6666666667
+43,Cardiff University,Macao (Special Administrative Region of China),126770.83333333334
+44,Cardiff University,Malaysia,9263468.575418994
+45,Cardiff University,Malta,370460.1955307262
+46,Cardiff University,Mauritius,126770.83333333334
+47,Cardiff University,Mexico,126770.83333333334
+48,Cardiff University,Morocco,250257.56517690874
+49,Cardiff University,Myanmar (Burma),123486.73184357541
+50,Cardiff University,Nepal,126770.83333333334
+51,Cardiff University,Netherlands,377028.3985102421
+52,Cardiff University,Nigeria,1927180.7495344505
+53,Cardiff University,Norway,630570.0651769087
+54,Cardiff University,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},123486.73184357541
+55,Cardiff University,Oman,1894994.2970204842
+56,Cardiff University,Pakistan,3305239.408752328
+57,Cardiff University,Poland,1010882.5651769087
+58,Cardiff University,Portugal,126770.83333333334
+59,Cardiff University,Qatar,250257.56517690874
+60,Cardiff University,Romania,819084.2644320298
+61,Cardiff University,Russia,377028.3985102421
+62,Cardiff University,Saudi,5034053.654562384
+63,Cardiff University,Singapore,1326167.597765363
+64,Cardiff University,Slovakia,126770.83333333334
+65,Cardiff University,South Africa,315285.03258845437
+66,Cardiff University,Spain,1010882.5651769087
+67,Cardiff University,Sri Lanka,568826.699255121
+68,Cardiff University,Sweden,253541.6666666667
+69,Cardiff University,Switzerland,442055.8659217877
+70,Cardiff University,Taiwan,624001.8621973929
+71,Cardiff University,Tanzania,250257.56517690874
+72,Cardiff University,Thailand,624001.8621973929
+73,Cardiff University,Trinidad & Tobago,123486.73184357541
+74,Cardiff University,Turkey,620717.760707635
+76,Cardiff University,Uganda,126770.83333333334
+77,Cardiff University,UAE,1699911.8947858475
+78,Cardiff University,United States,2817860.6843575416
+79,Cardiff University,Vietnam,250257.56517690874
+80,Cardiff University,Zambia,126770.83333333334
+81,Cardiff University,Zimbabwe,126770.83333333334
+82,Imperial,Albania,204529.296875
+83,Imperial,Australia,1310741.0239361702
+84,Imperial,Austria,1106211.7270611702
+85,Imperial,Azerbaijan,197049.5345744681
+86,Imperial,Bahrain,409058.59375
+87,Imperial,Bangladesh,204529.296875
+88,Imperial,Belgium,3038020.4039228726
+89,Imperial,Botswana,204529.296875
+90,Imperial,Brazil,401578.8314494681
+91,Imperial,Brunei,204529.296875
+92,Imperial,Bulgaria,1219696.0189494682
+93,Imperial,Canada,3311155.418882979
+94,Imperial,Canary Islands,204529.296875
+95,Imperial,Cayman Islands,204529.296875
+96,Imperial,Chile,197049.5345744681
+97,Imperial,China,138171749.21043885
+98,Imperial,Colombia,591148.6037234042
+99,Imperial,Croatia,204529.296875
+100,Imperial,Cyprus (European Union),5666982.214095745
+101,Imperial,Czech Republic,1015166.7220744682
+102,Imperial,Denmark,401578.8314494681
+103,Imperial,Ecuador,197049.5345744681
+104,Imperial,Egypt,598628.3660239362
+105,Imperial,Estonia,409058.59375
+106,Imperial,Finland,409058.59375
+107,Imperial,France,13873169.090757977
+108,Imperial,Germany,6243171.293218086
+109,Imperial,Ghana,401578.8314494681
+110,Imperial,Greece,6773193.941156914
+111,Imperial,Hong Kong (SAR),23863897.731050532
+112,Imperial,Hungary,2242342.503324468
+113,Imperial,Iceland,197049.5345744681
+114,Imperial,India,16678029.005984042
+115,Imperial,Indonesia,3227590.1761968085
+117,Imperial,Iran,197049.5345744681
+118,Imperial,Ireland,2796092.295545213
+119,Imperial,Israel,197049.5345744681
+120,Imperial,Italy,6962763.713430851
+121,Imperial,Ivory Coast,197049.5345744681
+122,Imperial,Japan,2431912.275598404
+123,Imperial,Jordan,401578.8314494681
+124,Imperial,Kazakhstan,803157.6628989362
+125,Imperial,Kenya,409058.59375
+126,Imperial,Korea (South),4886263.838098404
+127,Imperial,Kuwait,598628.3660239362
+128,Imperial,Latvia,204529.296875
+129,Imperial,Lebanon,2204943.6918218085
+130,Imperial,Lithuania,606108.1283244682
+131,Imperial,Luxembourg,1015166.7220744682
+132,Imperial,Macao (Special Administrative Region of China),1015166.7220744682
+133,Imperial,Malaysia,16977219.49800532
+134,Imperial,Malta,197049.5345744681
+135,Imperial,Mauritius,401578.8314494681
+136,Imperial,Mexico,591148.6037234042
+137,Imperial,Monaco,197049.5345744681
+138,Imperial,Morocco,810637.4251994682
+139,Imperial,Myanmar (Burma),204529.296875
+140,Imperial,Netherlands,1818324.3849734042
+141,Imperial,New Zealand,818117.1875
+142,Imperial,Nigeria,1598835.5634973405
+143,Imperial,Norway,1401786.0289228724
+144,Imperial,Oman,401578.8314494681
+145,Imperial,Pakistan,2310948.221409574
+146,Imperial,Peru,401578.8314494681
+147,Imperial,Philippines,204529.296875
+148,Imperial,Poland,4280155.709773936
+149,Imperial,Portugal,2333387.50831117
+150,Imperial,Qatar,401578.8314494681
+151,Imperial,Romania,5613336.020611702
+152,Imperial,Russia,2621482.0478723403
+153,Imperial,Saudi,1788405.3357712766
+154,Imperial,Singapore,15151415.350731382
+155,Imperial,Slovakia,1015166.7220744682
+156,Imperial,Slovenia,204529.296875
+157,Imperial,South Africa,992727.4351728724
+158,Imperial,Spain,10772734.873670213
+159,Imperial,Sri Lanka,1219696.0189494682
+160,Imperial,Sudan,401578.8314494681
+161,Imperial,Sweden,1219696.0189494682
+162,Imperial,Switzerland,4038227.6013962766
+163,Imperial,Taiwan,3008101.354720745
+164,Imperial,Thailand,6470139.876994681
+165,Imperial,Trinidad & Tobago,606108.1283244682
+166,Imperial,Turkey,2621482.0478723403
+168,Imperial,Ukraine,401578.8314494681
+169,Imperial,UAE,3939702.834109043
+170,Imperial,United States,6895445.852726064
+171,Imperial,Vietnam,606108.1283244682
+172,King's College London,Afghanistan,71838.06144067796
+173,King's College London,Albania,452635.3482334686
+174,King's College London,Algeria,154479.61267605633
+175,King's College London,Argentina,441831.8584387682
+176,King's College London,Armenia,154479.61267605633
+177,King's College London,Australia,1131588.3705836716
+178,King's College London,Austria,2212945.6593160657
+179,King's College London,Azerbaijan,916074.1862616376
+180,King's College London,Bahrain,916074.1862616376
+181,King's College London,Bangladesh,1440547.5959357843
+182,King's College London,Belgium,3261892.478664359
+183,King's College London,Bermuda,154479.61267605633
+184,King's College London,Botswana,143676.12288135593
+185,King's College London,Brazil,1677668.7598472189
+186,King's College London,Bulgaria,3067985.273931726
+187,King's College London,Cambodia,154479.61267605633
+188,King's College London,Canada,5183699.525095488
+189,King's College London,Cayman Islands,154479.61267605633
+190,King's College London,Chile,872860.227082836
+191,King's College London,China,175163109.51360705
+192,King's College London,Colombia,574704.4915254237
+193,King's College London,Costa Rica,143676.12288135593
+194,King's College London,Croatia,308959.22535211267
+195,King's College London,Cyprus (European Union),3129019.8455777033
+196,King's College London,Czech Republic,1832148.3725232752
+197,King's College London,Denmark,1451351.0857304847
+198,King's College London,Ecuador,452635.3482334686
+199,King's College London,Egypt,1595027.2086118404
+200,King's College London,Estonia,617918.4507042253
+201,King's College London,Finland,1688472.2496419193
+202,King's College London,France,22086242.633981854
+203,King's College London,Georgia,596311.4711148245
+204,King's College London,Germany,9857515.497433756
+205,King's College London,Ghana,226317.6741167343
+206,King's College London,Gibraltar,154479.61267605633
+207,King's College London,Greece,3405568.601545715
+208,King's College London,Hong Kong (SAR),17473461.23328957
+209,King's College London,Hungary,2460870.313022201
+210,King's College London,Iceland,154479.61267605633
+211,King's College London,India,25867710.932054188
+212,King's College London,Indonesia,3157643.9478395795
+214,King's College London,Iran,761594.5735855813
+215,King's College London,Iraq,71838.06144067796
+216,King's College London,Ireland,3340747.6627775123
+217,King's College London,Israel,607114.9609095249
+218,King's College London,Italy,12727807.199510623
+219,King's College London,Jamaica,143676.12288135593
+220,King's College London,Japan,3588672.3164836476
+221,King's College London,Jordan,1048946.8193482931
+222,King's College London,Kazakhstan,1214229.9218190499
+223,King's College London,Kenya,668149.5325555025
+224,King's College London,Korea (South),6010115.037449272
+225,King's College London,Kosovo,154479.61267605633
+226,King's College London,Kuwait,2374442.3946645977
+227,King's College London,Laos,154479.61267605633
+228,King's College London,Latvia,761594.5735855813
+229,King's College London,Lebanon,2295587.2105514444
+230,King's College London,Lithuania,1307674.9628491285
+231,King's College London,Luxembourg,1059750.3091429935
+232,King's College London,Macao (Special Administrative Region of China),463438.838028169
+233,King's College London,Madagascar,154479.61267605633
+234,King's College London,Malaysia,11373687.521932442
+235,King's College London,Maldives,154479.61267605633
+236,King's College London,Malta,143676.12288135593
+237,King's College London,Mauritius,452635.3482334686
+238,King's College London,Mexico,1479975.187992361
+239,King's College London,Monaco,308959.22535211267
+240,King's College London,Mongolia,154479.61267605633
+241,King's College London,Morocco,926877.676056338
+242,King's College London,Myanmar (Burma),308959.22535211267
+243,King's College London,Nepal,143676.12288135593
+244,King's College London,Netherlands,3003164.3351635234
+245,King's College London,New Zealand,452635.3482334686
+246,King's College London,Nigeria,1717096.3519037957
+247,King's College London,North Macedonia,143676.12288135593
+248,King's College London,Norway,2715812.0894008116
+249,King's College London,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},154479.61267605633
+250,King's College London,Oman,596311.4711148245
+251,King's College London,Pakistan,4167163.1751312963
+252,King's College London,Panama,143676.12288135593
+253,King's College London,Peru,750791.0837908809
+254,King's College London,Philippines,833432.6350262592
+255,King's College London,Poland,4839099.074809023
+256,King's College London,Portugal,1832148.3725232752
+257,King's College London,Qatar,1275264.4934650273
+258,King's College London,Romania,5230699.851396514
+259,King's College London,Russia,4558763.951718787
+260,King's College London,Saudi,6315287.895679159
+261,King's College London,Serbia,154479.61267605633
+262,King's College London,Singapore,9900729.456612557
+263,King's College London,Slovakia,1225033.4116137503
+264,King's College London,Slovenia,308959.22535211267
+265,King's College London,South Africa,761594.5735855813
+266,King's College London,Spain,9645787.680233946
+267,King's College London,Sri Lanka,452635.3482334686
+268,King's College London,Sweden,1688472.2496419193
+269,King's College London,Switzerland,6462750.38568274
+270,King's College London,Syria,154479.61267605633
+271,King's College London,Taiwan,5704386.56764741
+272,King's College London,Tanzania,154479.61267605633
+273,King's College London,Thailand,4235214.86944975
+274,King's College London,Trinidad & Tobago,154479.61267605633
+275,King's College London,Tunisia,308959.22535211267
+276,King's College London,Turkey,6254253.324033182
+278,King's College London,Uganda,154479.61267605633
+279,King's College London,Ukraine,1595027.2086118404
+280,King's College London,UAE,6886761.631654333
+281,King's College London,United States,17307066.907674864
+282,King's College London,Uzbekistan,154479.61267605633
+283,King's College London,Vietnam,1225033.4116137503
+284,King's College London,Zimbabwe,154479.61267605633
+285,LSE,Albania,134625.7142857143
+286,LSE,Argentina,617318.0327868853
+287,LSE,Armenia,154329.50819672132
+288,LSE,Australia,1792842.7166276348
+289,LSE,Austria,1638513.2084309135
+290,LSE,Azerbaijan,308659.01639344264
+291,LSE,Bahrain,423580.9367681499
+292,LSE,Bangladesh,597614.2388758782
+293,LSE,Belarus,154329.50819672132
+294,LSE,Belgium,1773138.9227166278
+295,LSE,Bosnia and Herzegovina,154329.50819672132
+296,LSE,Brazil,1677920.7962529275
+297,LSE,British Virgin Islands,154329.50819672132
+298,LSE,Brunei,134625.7142857143
+299,LSE,Bulgaria,443284.73067915696
+300,LSE,Canada,5977792.810304449
+301,LSE,Chile,1543295.0819672132
+302,LSE,China,59761322.62295082
+303,LSE,Colombia,1543295.0819672132
+304,LSE,Costa Rica,154329.50819672132
+305,LSE,Croatia,154329.50819672132
+306,LSE,Cyprus (European Union),1539994.2388758783
+307,LSE,Czech Republic,423580.9367681499
+308,LSE,Denmark,1040898.9695550352
+309,LSE,Ecuador,154329.50819672132
+310,LSE,Egypt,751943.7470725996
+311,LSE,Estonia,134625.7142857143
+312,LSE,Finland,308659.01639344264
+313,LSE,France,11080467.845433256
+314,LSE,Georgia,308659.01639344264
+315,LSE,Germany,11008254.355971899
+316,LSE,Ghana,617318.0327868853
+317,LSE,Greece,2273884.613583138
+318,LSE,Hong Kong (SAR),9857283.466042155
+319,LSE,Hungary,866865.6674473068
+320,LSE,Iceland,154329.50819672132
+321,LSE,India,15153796.861826697
+322,LSE,Indonesia,1638513.2084309135
+324,LSE,Iran,308659.01639344264
+325,LSE,Ireland,1369261.7798594849
+326,LSE,Israel,308659.01639344264
+327,LSE,Italy,5552561.451990632
+328,LSE,Japan,1947172.2248243561
+329,LSE,Jordan,443284.73067915696
+330,LSE,Kazakhstan,732239.9531615925
+331,LSE,Kenya,1040898.9695550352
+332,LSE,Korea (South),3950154.9882903984
+333,LSE,Kuwait,154329.50819672132
+334,LSE,Kyrgyzstan,154329.50819672132
+335,LSE,Latvia,154329.50819672132
+336,LSE,Lebanon,1175524.6838407496
+337,LSE,Lithuania,443284.73067915696
+338,LSE,Luxembourg,866865.6674473068
+339,LSE,Macao (Special Administrative Region of China),443284.73067915696
+340,LSE,Malaysia,8658754.145199064
+341,LSE,Malta,154329.50819672132
+342,LSE,Mauritius,288955.22248243564
+343,LSE,Mexico,1388965.5737704919
+344,LSE,Mongolia,154329.50819672132
+345,LSE,Montenegro,154329.50819672132
+346,LSE,Morocco,308659.01639344264
+347,LSE,Myanmar (Burma),288955.22248243564
+348,LSE,Namibia,154329.50819672132
+349,LSE,Nepal,154329.50819672132
+350,LSE,Netherlands,2621951.217798595
+351,LSE,New Zealand,577910.4449648713
+352,LSE,Nigeria,1195228.4777517563
+353,LSE,Norway,1523591.2880562062
+354,LSE,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},154329.50819672132
+355,LSE,Oman,0.0
+356,LSE,Pakistan,2735222.716627635
+357,LSE,Panama,154329.50819672132
+358,LSE,Paraguay,154329.50819672132
+359,LSE,Peru,1214932.2716627636
+360,LSE,Philippines,154329.50819672132
+361,LSE,Poland,2945362.763466042
+362,LSE,Portugal,886569.4613583139
+363,LSE,Qatar,308659.01639344264
+364,LSE,Romania,924326.6276346605
+365,LSE,Russia,1733731.3348946136
+366,LSE,Saudi,906273.2552693209
+367,LSE,Senegal,154329.50819672132
+368,LSE,Serbia,154329.50819672132
+369,LSE,Singapore,9065932.131147541
+370,LSE,Slovakia,288955.22248243564
+371,LSE,South Africa,1040898.9695550352
+372,LSE,Spain,3332836.955503513
+373,LSE,Sri Lanka,558206.6510538643
+374,LSE,Sudan,154329.50819672132
+375,LSE,Sweden,1021195.1756440282
+376,LSE,Switzerland,3951805.409836066
+377,LSE,Taiwan,1349557.9859484779
+378,LSE,Tanzania,154329.50819672132
+379,LSE,Thailand,2735222.716627635
+380,LSE,Trinidad & Tobago,154329.50819672132
+381,LSE,Turkey,1658217.0023419205
+383,LSE,Uganda,154329.50819672132
+384,LSE,Ukraine,443284.73067915696
+385,LSE,UAE,2465971.288056206
+386,LSE,United States,22162687.377049178
+387,LSE,Uzbekistan,154329.50819672132
+388,LSE,Vietnam,692832.3653395785
+389,Newcastle University,Australia,195356.86179285514
+390,Newcastle University,Austria,131810.04098360657
+391,Newcastle University,Azerbaijan,131810.04098360657
+392,Newcastle University,Bahrain,917953.8875201364
+393,Newcastle University,Bangladesh,127093.64161849712
+394,Newcastle University,Belgium,263620.08196721313
+395,Newcastle University,Bermuda,131810.04098360657
+396,Newcastle University,Botswana,131810.04098360657
+397,Newcastle University,Brunei,790860.2459016393
+398,Newcastle University,Bulgaria,527240.1639344263
+399,Newcastle University,Canada,781427.4471714206
+400,Newcastle University,Cayman Islands,395430.12295081967
+401,Newcastle University,China,59497951.09329101
+402,Newcastle University,Colombia,127093.64161849712
+403,Newcastle University,Croatia,131810.04098360657
+404,Newcastle University,Cyprus (European Union),4003698.852222117
+405,Newcastle University,Cyprus (Non-European Union),786143.8465365298
+406,Newcastle University,Czech Republic,786143.8465365298
+407,Newcastle University,Denmark,131810.04098360657
+408,Newcastle University,Ecuador,395430.12295081967
+409,Newcastle University,Egypt,263620.08196721313
+410,Newcastle University,Finland,131810.04098360657
+411,Newcastle University,France,1176857.57012224
+412,Newcastle University,Germany,976784.3089642755
+413,Newcastle University,Gibraltar,263620.08196721313
+414,Newcastle University,Greece,3339932.2479389748
+415,Newcastle University,Hong Kong (SAR),7280084.2793518435
+416,Newcastle University,Hungary,395430.12295081967
+417,Newcastle University,India,9181523.363024734
+418,Newcastle University,Indonesia,2226621.498625983
+420,Newcastle University,Iran,258903.68260210368
+421,Newcastle University,Iraq,127093.64161849712
+422,Newcastle University,Ireland,581354.186013456
+423,Newcastle University,Italy,1172141.1707571307
+424,Newcastle University,Japan,522523.76456931676
+425,Newcastle University,Jordan,131810.04098360657
+426,Newcastle University,Kazakhstan,263620.08196721313
+427,Newcastle University,Kenya,131810.04098360657
+428,Newcastle University,Korea (South),1176857.57012224
+429,Newcastle University,Kuwait,3276385.427129726
+430,Newcastle University,Latvia,263620.08196721313
+431,Newcastle University,Lebanon,131810.04098360657
+432,Newcastle University,Libya,127093.64161849712
+433,Newcastle University,Lithuania,2899820.901639344
+434,Newcastle University,Luxembourg,131810.04098360657
+435,Newcastle University,Macao (Special Administrative Region of China),131810.04098360657
+436,Newcastle University,Malaysia,3608268.7292712973
+437,Newcastle University,Malta,195356.86179285514
+438,Newcastle University,Mauritius,395430.12295081967
+439,Newcastle University,Mexico,127093.64161849712
+440,Newcastle University,Morocco,131810.04098360657
+441,Newcastle University,Myanmar (Burma),722597.0257272813
+442,Newcastle University,Netherlands,644901.0068227045
+443,Newcastle University,Nigeria,1294518.4130105183
+444,Newcastle University,Norway,395430.12295081967
+445,Newcastle University,Oman,1449910.450819672
+446,Newcastle University,Pakistan,1049763.9285037431
+447,Newcastle University,Panama,258903.68260210368
+448,Newcastle University,Peru,131810.04098360657
+449,Newcastle University,Philippines,131810.04098360657
+450,Newcastle University,Poland,3163440.9836065574
+451,Newcastle University,Portugal,395430.12295081967
+452,Newcastle University,Qatar,659050.2049180327
+453,Newcastle University,Romania,922670.2868852459
+454,Newcastle University,Russia,1049763.9285037431
+455,Newcastle University,Saudi,1553422.0956126219
+456,Newcastle University,Singapore,1772360.9542310243
+457,Newcastle University,Slovakia,263620.08196721313
+458,Newcastle University,South Africa,131810.04098360657
+459,Newcastle University,Spain,1181573.9694873497
+460,Newcastle University,Sri Lanka,131810.04098360657
+461,Newcastle University,Sweden,131810.04098360657
+462,Newcastle University,Switzerland,527240.1639344263
+463,Newcastle University,Taiwan,776711.0478063109
+464,Newcastle University,Thailand,1294518.4130105183
+465,Newcastle University,Trinidad & Tobago,63546.82080924856
+466,Newcastle University,Turkey,644901.0068227045
+467,Newcastle University,Turks and Caicos Islands,131810.04098360657
+469,Newcastle University,Uganda,131810.04098360657
+470,Newcastle University,Ukraine,263620.08196721313
+471,Newcastle University,UAE,2494957.979958306
+472,Newcastle University,United States,2784393.687813892
+473,Newcastle University,Venezuela,131810.04098360657
+474,Newcastle University,Vietnam,786143.8465365298
+475,Newcastle University,Zambia,131810.04098360657
+476,Newcastle University,Zimbabwe,131810.04098360657
+477,Queen Mary University of London,Afghanistan,123354.30463576158
+478,Queen Mary University of London,Albania,630267.2909435489
+479,Queen Mary University of London,Algeria,379060.0924171121
+480,Queen Mary University of London,Australia,123354.30463576158
+481,Queen Mary University of London,Austria,758120.1848342242
+482,Queen Mary University of London,Azerbaijan,502414.3970528736
+483,Queen Mary University of London,Bahrain,506912.9863077873
+484,Queen Mary University of London,Bangladesh,1762948.9789399714
+485,Queen Mary University of London,Belarus,123354.30463576158
+486,Queen Mary University of London,Belgium,885973.0787248994
+487,Queen Mary University of London,Bermuda,255705.7877813505
+488,Queen Mary University of London,Brazil,1062007.3571687145
+489,Queen Mary University of London,Brunei,127852.89389067524
+490,Queen Mary University of London,Bulgaria,1013825.9726155746
+491,Queen Mary University of London,Cambodia,379060.0924171121
+492,Queen Mary University of London,Canada,2151006.2498669107
+493,Queen Mary University of London,Cayman Islands,127852.89389067524
+494,Queen Mary University of London,Chile,123354.30463576158
+495,Queen Mary University of London,China,50358867.82117076
+496,Queen Mary University of London,Colombia,246708.60927152316
+497,Queen Mary University of London,Croatia,189530.04620855604
+498,Queen Mary University of London,Cyprus (European Union),3610068.056472392
+499,Queen Mary University of London,Czech Republic,506912.9863077873
+500,Queen Mary University of London,Denmark,251207.1985264368
+501,Queen Mary University of London,Dominican Republic,123354.30463576158
+502,Queen Mary University of London,Egypt,1450064.6280956538
+503,Queen Mary University of London,Estonia,127852.89389067524
+504,Queen Mary University of London,Finland,383558.6816720257
+505,Queen Mary University of London,France,5527861.46483252
+506,Queen Mary University of London,Gabon,127852.89389067524
+507,Queen Mary University of London,Georgia,127852.89389067524
+508,Queen Mary University of London,Germany,3231007.9640552797
+509,Queen Mary University of London,Ghana,374561.5031621984
+510,Queen Mary University of London,Gibraltar,127852.89389067524
+511,Queen Mary University of London,Greece,4240335.347415941
+512,Queen Mary University of London,Hong Kong (SAR),4562216.876770086
+513,Queen Mary University of London,Hungary,639264.4694533763
+514,Queen Mary University of London,Iceland,123354.30463576158
+515,Queen Mary University of London,India,31803631.449500646
+516,Queen Mary University of London,Indonesia,1881804.6943208193
+518,Queen Mary University of London,Iran,876975.9002150721
+519,Queen Mary University of London,Iraq,123354.30463576158
+520,Queen Mary University of London,Ireland,691944.4432614297
+521,Queen Mary University of London,Israel,127852.89389067524
+522,Queen Mary University of London,Italy,4201151.1413726285
+523,Queen Mary University of London,Japan,1260534.5818870978
+524,Queen Mary University of London,Jordan,630267.2909435489
+525,Queen Mary University of London,Kazakhstan,881474.4894699857
+526,Queen Mary University of London,Kenya,753621.5955793104
+527,Queen Mary University of London,Korea (South),1141678.8665062499
+528,Queen Mary University of London,Kosovo,127852.89389067524
+529,Queen Mary University of London,Kuwait,4808925.486041609
+530,Queen Mary University of London,Latvia,383558.6816720257
+531,Queen Mary University of London,Lebanon,1450064.6280956538
+532,Queen Mary University of London,Libya,127852.89389067524
+533,Queen Mary University of London,Lithuania,639264.4694533763
+534,Queen Mary University of London,Luxembourg,506912.9863077873
+535,Queen Mary University of London,Macao (Special Administrative Region of China),251207.1985264368
+536,Queen Mary University of London,Malaysia,5712892.921786163
+537,Queen Mary University of London,Maldives,127852.89389067524
+538,Queen Mary University of London,Malta,251207.1985264368
+539,Queen Mary University of London,Mauritius,506912.9863077873
+540,Queen Mary University of London,Mexico,497915.80779796
+541,Queen Mary University of London,Mongolia,127852.89389067524
+542,Queen Mary University of London,Morocco,885973.0787248994
+543,Queen Mary University of London,Myanmar (Burma),127852.89389067524
+544,Queen Mary University of London,Nepal,251207.1985264368
+545,Queen Mary University of London,Netherlands,634765.8801984625
+546,Queen Mary University of London,Nigeria,1934484.668128873
+547,Queen Mary University of London,Norway,1269531.760396925
+548,Queen Mary University of London,Oman,251207.1985264368
+549,Queen Mary University of London,Pakistan,5464881.21526373
+550,Queen Mary University of London,Peru,246708.60927152316
+551,Queen Mary University of London,Philippines,251207.1985264368
+552,Queen Mary University of London,Poland,3121149.4271842595
+553,Queen Mary University of London,Portugal,1397384.6542876002
+554,Queen Mary University of London,Qatar,634765.8801984625
+555,Queen Mary University of London,Romania,2230677.7592044463
+556,Queen Mary University of London,Russia,2847449.2823832543
+557,Queen Mary University of London,Saudi,4270522.374949425
+558,Queen Mary University of London,Serbia,379060.0924171121
+559,Queen Mary University of London,Singapore,2865443.639402909
+560,Queen Mary University of London,Slovakia,379060.0924171121
+561,Queen Mary University of London,South Africa,379060.0924171121
+562,Queen Mary University of London,Spain,3249002.3210749347
+563,Queen Mary University of London,Sri Lanka,379060.0924171121
+564,Queen Mary University of London,Sudan,123354.30463576158
+565,Queen Mary University of London,Sweden,511411.575562701
+566,Queen Mary University of London,Switzerland,1520738.9589233617
+567,Queen Mary University of London,Taiwan,1498246.0126487936
+568,Queen Mary University of London,Thailand,2987494.84678776
+569,Queen Mary University of London,Trinidad & Tobago,127852.89389067524
+570,Queen Mary University of London,Tunisia,127852.89389067524
+571,Queen Mary University of London,Turkey,3701932.236323758
+572,Queen Mary University of London,Turkmenistan,127852.89389067524
+574,Queen Mary University of London,Uganda,251207.1985264368
+575,Queen Mary University of London,Ukraine,885973.0787248994
+576,Queen Mary University of London,UAE,4443361.161389238
+577,Queen Mary University of London,United States,3441727.859287494
+578,Queen Mary University of London,Uzbekistan,374561.5031621984
+579,Queen Mary University of London,Vietnam,1507243.1911586209
+580,Queen Mary University of London,Zambia,127852.89389067524
+581,Queen's University Belfast,Australia,114564.07239819004
+582,Queen's University Belfast,Bahrain,114564.07239819004
+583,Queen's University Belfast,Bangladesh,211838.7162162162
+584,Queen's University Belfast,Brazil,52959.67905405405
+585,Queen's University Belfast,Brunei,114564.07239819004
+586,Queen's University Belfast,Bulgaria,114564.07239819004
+587,Queen's University Belfast,Canada,2511764.8784700986
+588,Queen's University Belfast,China,30352098.728980675
+589,Queen's University Belfast,Cyprus (European Union),114564.07239819004
+590,Queen's University Belfast,Ecuador,114564.07239819004
+591,Queen's University Belfast,Egypt,114564.07239819004
+592,Queen's University Belfast,Finland,114564.07239819004
+593,Queen's University Belfast,France,564175.6477008683
+594,Queen's University Belfast,Germany,229128.14479638007
+595,Queen's University Belfast,Greece,114564.07239819004
+596,Queen's University Belfast,Hong Kong (SAR),1251560.0820900085
+597,Queen's University Belfast,India,10853460.026140394
+598,Queen's University Belfast,Indonesia,2044863.874587257
+600,Queen's University Belfast,Iran,220483.43050629814
+601,Queen's University Belfast,Ireland,18444902.088327013
+602,Queen's University Belfast,Italy,220483.43050629814
+603,Queen's University Belfast,Japan,335047.5029044882
+604,Queen's University Belfast,Jordan,220483.43050629814
+605,Queen's University Belfast,Kazakhstan,114564.07239819004
+606,Queen's University Belfast,Korea (South),449611.5753026782
+607,Queen's University Belfast,Kuwait,220483.43050629814
+608,Queen's University Belfast,Lithuania,114564.07239819004
+609,Queen's University Belfast,Luxembourg,114564.07239819004
+610,Queen's University Belfast,Malaysia,7596899.028754433
+611,Queen's University Belfast,Mexico,105919.3581081081
+612,Queen's University Belfast,Myanmar (Burma),801948.5067873303
+613,Queen's University Belfast,Nepal,220483.43050629814
+614,Queen's University Belfast,Nigeria,608490.6124648404
+615,Queen's University Belfast,Norway,220483.43050629814
+616,Queen's University Belfast,Oman,114564.07239819004
+617,Queen's University Belfast,Pakistan,1181310.9744557906
+618,Queen's University Belfast,Peru,114564.07239819004
+619,Queen's University Belfast,Philippines,114564.07239819004
+620,Queen's University Belfast,Poland,114564.07239819004
+621,Queen's University Belfast,Portugal,114564.07239819004
+622,Queen's University Belfast,Qatar,105919.3581081081
+623,Queen's University Belfast,Romania,229128.14479638007
+624,Queen's University Belfast,Russia,220483.43050629814
+625,Queen's University Belfast,Saudi,1657948.085942277
+626,Queen's University Belfast,Singapore,1251560.0820900085
+627,Queen's University Belfast,South Africa,220483.43050629814
+628,Queen's University Belfast,Spain,229128.14479638007
+629,Queen's University Belfast,Sri Lanka,229128.14479638007
+630,Queen's University Belfast,Sweden,114564.07239819004
+631,Queen's University Belfast,Switzerland,114564.07239819004
+632,Queen's University Belfast,Taiwan,114564.07239819004
+633,Queen's University Belfast,Thailand,114564.07239819004
+634,Queen's University Belfast,Trinidad & Tobago,114564.07239819004
+635,Queen's University Belfast,Turkey,105919.3581081081
+637,Queen's University Belfast,UAE,1419083.8335422527
+638,Queen's University Belfast,United States,3140819.09945579
+639,Queen's University Belfast,Vietnam,220483.43050629814
+640,Queen's University Belfast,Zimbabwe,52959.67905405405
+641,The University of Birmingham,Afghanistan,155457.77777777778
+642,The University of Birmingham,Albania,124811.06719367587
+643,The University of Birmingham,Algeria,124811.06719367587
+644,The University of Birmingham,Australia,202539.95608256478
+645,The University of Birmingham,Austria,124811.06719367587
+646,The University of Birmingham,Bahrain,624055.3359683794
+647,The University of Birmingham,Bangladesh,996264.3126921388
+648,The University of Birmingham,Belgium,249622.13438735175
+649,The University of Birmingham,Botswana,124811.06719367587
+650,The University of Birmingham,Brazil,124811.06719367587
+651,The University of Birmingham,Brunei,124811.06719367587
+652,The University of Birmingham,Bulgaria,499244.2687747035
+653,The University of Birmingham,Cameroon,155457.77777777778
+654,The University of Birmingham,Canada,4460327.483530961
+655,The University of Birmingham,Cayman Islands,249622.13438735175
+656,The University of Birmingham,China,127440147.12340799
+657,The University of Birmingham,Croatia,124811.06719367587
+658,The University of Birmingham,Cyprus (European Union),857242.0026350461
+659,The University of Birmingham,Czech Republic,779513.1137461571
+660,The University of Birmingham,Denmark,202539.95608256478
+661,The University of Birmingham,Egypt,1106864.137022398
+662,The University of Birmingham,Estonia,124811.06719367587
+663,The University of Birmingham,Finland,124811.06719367587
+664,The University of Birmingham,France,1714484.0052700923
+665,The University of Birmingham,"Gambia, The",124811.06719367587
+666,The University of Birmingham,Germany,934970.8915239349
+667,The University of Birmingham,Ghana,793724.356609574
+668,The University of Birmingham,Gibraltar,124811.06719367587
+669,The University of Birmingham,Greece,1168157.5581906016
+670,The University of Birmingham,Hong Kong (SAR),10665785.682916118
+671,The University of Birmingham,Hungary,249622.13438735175
+672,The University of Birmingham,India,14096485.480895914
+673,The University of Birmingham,Indonesia,2039610.8036890647
+675,The University of Birmingham,Iran,482808.80105401843
+676,The University of Birmingham,Ireland,1057557.7338603425
+677,The University of Birmingham,Israel,124811.06719367587
+678,The University of Birmingham,Italy,1822859.604743083
+679,The University of Birmingham,Ivory Coast,249622.13438735175
+680,The University of Birmingham,Japan,1307179.8682476943
+681,The University of Birmingham,Jordan,202539.95608256478
+682,The University of Birmingham,Kazakhstan,405079.91216512956
+683,The University of Birmingham,Kenya,1168157.5581906016
+684,The University of Birmingham,Korea (North),124811.06719367587
+685,The University of Birmingham,Korea (South),2694312.8502415456
+686,The University of Birmingham,Kuwait,982053.0698287219
+687,The University of Birmingham,Latvia,124811.06719367587
+688,The University of Birmingham,Lebanon,280268.84497145365
+689,The University of Birmingham,Libya,124811.06719367587
+690,The University of Birmingham,Lithuania,624055.3359683794
+691,The University of Birmingham,Luxembourg,124811.06719367587
+692,The University of Birmingham,Macao (Special Administrative Region of China),124811.06719367587
+693,The University of Birmingham,Malaysia,3040323.5660957396
+694,The University of Birmingham,Malta,155457.77777777778
+695,The University of Birmingham,Mauritius,124811.06719367587
+696,The University of Birmingham,Mexico,124811.06719367587
+697,The University of Birmingham,Morocco,124811.06719367587
+698,The University of Birmingham,Myanmar (Burma),124811.06719367587
+699,The University of Birmingham,Netherlands,405079.91216512956
+700,The University of Birmingham,New Zealand,77728.88888888889
+701,The University of Birmingham,Nigeria,5110581.080368906
+702,The University of Birmingham,Norway,249622.13438735175
+703,The University of Birmingham,Oman,1497732.8063241106
+704,The University of Birmingham,Pakistan,887888.7132191479
+705,The University of Birmingham,Panama,124811.06719367587
+706,The University of Birmingham,Peru,249622.13438735175
+707,The University of Birmingham,Philippines,124811.06719367587
+708,The University of Birmingham,Poland,529890.9793588055
+709,The University of Birmingham,Portugal,529890.9793588055
+710,The University of Birmingham,Qatar,685348.7571365832
+711,The University of Birmingham,Romania,3073194.50153711
+712,The University of Birmingham,Russia,405079.91216512956
+713,The University of Birmingham,Saudi,3629283.7417654805
+714,The University of Birmingham,Sierra Leone,77728.88888888889
+715,The University of Birmingham,Singapore,2479785.8761528325
+716,The University of Birmingham,Slovakia,624055.3359683794
+717,The University of Birmingham,South Africa,405079.91216512956
+718,The University of Birmingham,Spain,1356486.2714097498
+719,The University of Birmingham,Sri Lanka,405079.91216512956
+720,The University of Birmingham,Sudan,124811.06719367587
+721,The University of Birmingham,Sweden,327351.0232762406
+722,The University of Birmingham,Switzerland,576973.1576635924
+723,The University of Birmingham,Taiwan,1789988.669301713
+724,The University of Birmingham,Tanzania,124811.06719367587
+725,The University of Birmingham,Thailand,840806.534914361
+726,The University of Birmingham,Trinidad & Tobago,327351.0232762406
+727,The University of Birmingham,Turkey,1806424.137022398
+729,The University of Birmingham,Uganda,357997.73386034253
+730,The University of Birmingham,Ukraine,124811.06719367587
+731,The University of Birmingham,UAE,3134487.9227053137
+732,The University of Birmingham,United States,2458901.9587176107
+733,The University of Birmingham,Uzbekistan,124811.06719367587
+734,The University of Birmingham,Vietnam,560537.6899429073
+735,The University of Birmingham,Zambia,202539.95608256478
+736,The University of Birmingham,Zimbabwe,124811.06719367587
+737,The University of Bristol,Algeria,139808.5808580858
+738,The University of Bristol,Australia,287715.9419691969
+739,The University of Bristol,Austria,279617.1617161716
+740,The University of Bristol,Azerbaijan,139808.5808580858
+741,The University of Bristol,Bahrain,279617.1617161716
+742,The University of Bristol,Bangladesh,287715.9419691969
+743,The University of Bristol,Barbados,147907.36111111112
+744,The University of Bristol,Belgium,699042.9042904291
+745,The University of Bristol,Bermuda,287715.9419691969
+746,The University of Bristol,Brazil,427524.5228272827
+747,The University of Bristol,Brunei,279617.1617161716
+748,The University of Bristol,Bulgaria,699042.9042904291
+749,The University of Bristol,Cambodia,139808.5808580858
+750,The University of Bristol,Canada,1134666.207370737
+751,The University of Bristol,Cayman Islands,139808.5808580858
+752,The University of Bristol,Chile,287715.9419691969
+753,The University of Bristol,China,112671494.01471397
+754,The University of Bristol,Colombia,147907.36111111112
+755,The University of Bristol,Cyprus (European Union),2664461.8165566553
+756,The University of Bristol,Czech Republic,419425.7425742574
+757,The University of Bristol,Denmark,139808.5808580858
+758,The University of Bristol,Ecuador,139808.5808580858
+759,The University of Bristol,Egypt,846950.2654015402
+760,The University of Bristol,Estonia,139808.5808580858
+761,The University of Bristol,Finland,279617.1617161716
+762,The University of Bristol,France,4276309.886551155
+763,The University of Bristol,Georgia,147907.36111111112
+764,The University of Bristol,Germany,1488237.0496424641
+765,The University of Bristol,Ghana,287715.9419691969
+766,The University of Bristol,Gibraltar,139808.5808580858
+767,The University of Bristol,Greece,3445557.181655666
+768,The University of Bristol,Hong Kong (SAR),9867588.46259626
+769,The University of Bristol,Hungary,279617.1617161716
+770,The University of Bristol,India,15443315.650440045
+771,The University of Bristol,Indonesia,1282573.568481848
+773,The University of Bristol,Iran,287715.9419691969
+774,The University of Bristol,Ireland,1216718.6681793178
+775,The University of Bristol,Italy,1406184.5888338834
+776,The University of Bristol,Jamaica,147907.36111111112
+777,The University of Bristol,Japan,1438579.7098459848
+778,The University of Bristol,Jordan,1406184.5888338834
+779,The University of Bristol,Kazakhstan,723339.2450495049
+780,The University of Bristol,Kenya,986758.846259626
+781,The University of Bristol,Korea (South),2113326.2733773375
+782,The University of Bristol,Kuwait,1545993.1696919692
+783,The University of Bristol,Lebanon,287715.9419691969
+784,The University of Bristol,Libya,147907.36111111112
+785,The University of Bristol,Lithuania,419425.7425742574
+786,The University of Bristol,Luxembourg,139808.5808580858
+787,The University of Bristol,Macao (Special Administrative Region of China),139808.5808580858
+788,The University of Bristol,Malaysia,8560718.553355336
+789,The University of Bristol,Maldives,139808.5808580858
+790,The University of Bristol,Mauritius,707141.6845434543
+791,The University of Bristol,Mexico,147907.36111111112
+792,The University of Bristol,Mongolia,139808.5808580858
+793,The University of Bristol,Morocco,139808.5808580858
+794,The University of Bristol,Myanmar (Burma),279617.1617161716
+795,The University of Bristol,Netherlands,846950.2654015402
+796,The University of Bristol,New Zealand,139808.5808580858
+797,The University of Bristol,Nigeria,1446678.4900990098
+798,The University of Bristol,Norway,559234.3234323432
+799,The University of Bristol,Oman,427524.5228272827
+800,The University of Bristol,Pakistan,846950.2654015402
+801,The University of Bristol,Panama,279617.1617161716
+802,The University of Bristol,Peru,287715.9419691969
+803,The University of Bristol,Philippines,139808.5808580858
+804,The University of Bristol,Poland,1817511.5511551155
+805,The University of Bristol,Portugal,1126567.4271177119
+806,The University of Bristol,Qatar,707141.6845434543
+807,The University of Bristol,Romania,1825610.3314081407
+808,The University of Bristol,Russia,1274474.7882288229
+809,The University of Bristol,Saudi,1701999.3110561054
+810,The University of Bristol,Singapore,5600442.014576457
+811,The University of Bristol,Slovakia,419425.7425742574
+812,The University of Bristol,South Africa,633188.0039878988
+813,The University of Bristol,Spain,3651220.6628162814
+814,The University of Bristol,Sri Lanka,707141.6845434543
+815,The University of Bristol,Sudan,139808.5808580858
+816,The University of Bristol,Sweden,559234.3234323432
+817,The University of Bristol,Switzerland,1406184.5888338834
+818,The University of Bristol,Taiwan,2046406.7147964798
+819,The University of Bristol,Thailand,3000770.4400440045
+820,The University of Bristol,Trinidad & Tobago,419425.7425742574
+821,The University of Bristol,Turkey,1142764.9876237623
+823,The University of Bristol,Uganda,279617.1617161716
+824,The University of Bristol,Ukraine,279617.1617161716
+825,The University of Bristol,UAE,3511412.081958196
+826,The University of Bristol,United States,3642057.2242849283
+827,The University of Bristol,Uzbekistan,147907.36111111112
+828,The University of Bristol,Vietnam,855049.0456545654
+829,The University of Bristol,Zimbabwe,139808.5808580858
+830,The University of Cambridge,Armenia,165890.29411764705
+831,The University of Cambridge,Australia,3553148.6609907122
+832,The University of Cambridge,Austria,671278.1191950465
+833,The University of Cambridge,Bahrain,165890.29411764705
+834,The University of Cambridge,Bangladesh,173607.23684210528
+835,The University of Cambridge,Belgium,1010775.6501547988
+836,The University of Cambridge,Brazil,347214.47368421056
+837,The University of Cambridge,Bulgaria,829451.4705882353
+838,The University of Cambridge,Canada,3607167.2600619197
+839,The University of Cambridge,Chile,347214.47368421056
+840,The University of Cambridge,China,34933495.47213622
+841,The University of Cambridge,Colombia,347214.47368421056
+842,The University of Cambridge,Croatia,671278.1191950465
+843,The University of Cambridge,Cyprus (European Union),1998400.4721362228
+844,The University of Cambridge,Czech Republic,1003058.7074303406
+845,The University of Cambridge,Denmark,1003058.7074303406
+846,The University of Cambridge,Ecuador,173607.23684210528
+847,The University of Cambridge,Egypt,347214.47368421056
+848,The University of Cambridge,Estonia,331780.5882352941
+849,The University of Cambridge,Finland,505387.8250773994
+850,The University of Cambridge,France,4571641.253869969
+851,The University of Cambridge,Georgia,173607.23684210528
+852,The University of Cambridge,Germany,4926572.670278638
+853,The University of Cambridge,Ghana,347214.47368421056
+854,The University of Cambridge,Gibraltar,165890.29411764705
+855,The University of Cambridge,Greece,1350273.1811145511
+856,The University of Cambridge,Hong Kong (SAR),10709582.136222912
+857,The University of Cambridge,Hungary,2993742.236842105
+858,The University of Cambridge,Iceland,173607.23684210528
+859,The University of Cambridge,India,7704288.459752321
+860,The University of Cambridge,Indonesia,860319.2414860681
+862,The University of Cambridge,Ireland,2029268.2430340557
+863,The University of Cambridge,Israel,513104.7678018576
+864,The University of Cambridge,Italy,2534656.068111455
+865,The University of Cambridge,Japan,1871094.8916408669
+866,The University of Cambridge,Jordan,165890.29411764705
+867,The University of Cambridge,Kazakhstan,165890.29411764705
+868,The University of Cambridge,Kenya,339497.53095975233
+869,The University of Cambridge,Korea (South),2345614.9458204336
+870,The University of Cambridge,Kuwait,173607.23684210528
+871,The University of Cambridge,Latvia,331780.5882352941
+872,The University of Cambridge,Lebanon,173607.23684210528
+873,The University of Cambridge,Lithuania,1003058.7074303406
+874,The University of Cambridge,Luxembourg,165890.29411764705
+875,The University of Cambridge,Malaysia,4344015.417956656
+876,The University of Cambridge,Mauritius,339497.53095975233
+877,The University of Cambridge,Mexico,694428.9473684211
+878,The University of Cambridge,Nepal,173607.23684210528
+879,The University of Cambridge,Netherlands,1863377.9489164087
+880,The University of Cambridge,New Zealand,1010775.6501547988
+881,The University of Cambridge,Nigeria,686712.0046439628
+882,The University of Cambridge,Norway,505387.8250773994
+883,The University of Cambridge,Pakistan,1192099.8297213623
+884,The University of Cambridge,Peru,513104.7678018576
+885,The University of Cambridge,Philippines,173607.23684210528
+886,The University of Cambridge,Poland,4170408.181114551
+887,The University of Cambridge,Portugal,505387.8250773994
+888,The University of Cambridge,Romania,2172007.708978328
+889,The University of Cambridge,Russia,1184382.886996904
+890,The University of Cambridge,Saudi,339497.53095975233
+891,The University of Cambridge,Serbia,671278.1191950465
+892,The University of Cambridge,Singapore,10505107.128482971
+893,The University of Cambridge,Slovakia,671278.1191950465
+894,The University of Cambridge,Slovenia,165890.29411764705
+895,The University of Cambridge,South Africa,860319.2414860681
+896,The University of Cambridge,Spain,2368765.773993808
+897,The University of Cambridge,Sri Lanka,165890.29411764705
+898,The University of Cambridge,Sweden,1003058.7074303406
+899,The University of Cambridge,Switzerland,1516163.4752321981
+900,The University of Cambridge,Taiwan,686712.0046439628
+901,The University of Cambridge,Thailand,1855661.0061919505
+902,The University of Cambridge,Turkey,339497.53095975233
+904,The University of Cambridge,Ukraine,505387.8250773994
+905,The University of Cambridge,UAE,671278.1191950465
+906,The University of Cambridge,United States,16598759.500773994
+907,The University of Cambridge,Vietnam,844885.3560371518
+908,The University of Edinburgh,Albania,145791.0052910053
+909,The University of Edinburgh,Argentina,145791.0052910053
+910,The University of Edinburgh,Armenia,145791.0052910053
+911,The University of Edinburgh,Australia,1357292.6282118936
+912,The University of Edinburgh,Austria,1424370.911344
+913,The University of Edinburgh,Azerbaijan,249008.1528973883
+914,The University of Edinburgh,"Bahamas, The",197399.5790941968
+915,The University of Edinburgh,Bahrain,747024.4586921649
+916,The University of Edinburgh,Bangladesh,695415.8848889733
+917,The University of Edinburgh,Belgium,2256543.0854054093
+918,The University of Edinburgh,Bermuda,291582.0105820106
+919,The University of Edinburgh,Bosnia and Herzegovina,145791.0052910053
+920,The University of Edinburgh,Botswana,145791.0052910053
+921,The University of Edinburgh,Brazil,601233.4534011596
+922,The University of Edinburgh,Brunei,634772.5949672128
+923,The University of Edinburgh,Bulgaria,832172.1740614094
+924,The University of Edinburgh,Cameroon,145791.0052910053
+925,The University of Edinburgh,Canada,9131989.212136243
+926,The University of Edinburgh,Canary Islands,291582.0105820106
+927,The University of Edinburgh,Cayman Islands,145791.0052910053
+928,The University of Edinburgh,Chile,507051.0219133457
+929,The University of Edinburgh,China,150450319.08527878
+930,The University of Edinburgh,Colombia,455442.44811015425
+931,The University of Edinburgh,Croatia,540590.1634793988
+932,The University of Edinburgh,Cyprus (European Union),3963461.2912128503
+933,The University of Edinburgh,Czech Republic,1955926.3587048294
+934,The University of Edinburgh,Denmark,1612735.7743196273
+935,The University of Edinburgh,Ecuador,154825.7214095745
+936,The University of Edinburgh,Egypt,747024.4586921649
+937,The University of Edinburgh,Estonia,634772.5949672128
+938,The University of Edinburgh,Ethiopia,145791.0052910053
+939,The University of Edinburgh,Finland,1466944.7690286222
+940,The University of Edinburgh,France,5894883.224470196
+941,The University of Edinburgh,Georgia,249008.1528973883
+942,The University of Edinburgh,Germany,7956626.453689632
+943,The University of Edinburgh,Ghana,549624.8795979681
+944,The University of Edinburgh,Gibraltar,145791.0052910053
+945,The University of Edinburgh,Greece,3784131.1443557916
+946,The University of Edinburgh,Guatemala,103217.14760638299
+947,The University of Edinburgh,Guyana,103217.14760638299
+948,The University of Edinburgh,Hong Kong (SAR),10022204.95321119
+949,The University of Edinburgh,Hungary,1758526.779610633
+950,The University of Edinburgh,Iceland,103217.14760638299
+951,The University of Edinburgh,India,14979227.761225797
+952,The University of Edinburgh,Indonesia,2292681.949879686
+954,The University of Edinburgh,Iran,249008.1528973883
+955,The University of Edinburgh,Ireland,6705150.695992345
+956,The University of Edinburgh,Israel,145791.0052910053
+957,The University of Edinburgh,Italy,4667911.892220393
+958,The University of Edinburgh,Jamaica,51608.573803191495
+959,The University of Edinburgh,Japan,2429438.2390521225
+960,The University of Edinburgh,Jordan,737989.7425735957
+961,The University of Edinburgh,Kazakhstan,249008.1528973883
+962,The University of Edinburgh,Kenya,1381797.0536593776
+963,The University of Edinburgh,Korea (South),2806167.9650033773
+964,The University of Edinburgh,Kuwait,695415.8848889733
+965,The University of Edinburgh,Latvia,583164.0211640212
+966,The University of Edinburgh,Lebanon,643807.3110857818
+967,The University of Edinburgh,Lithuania,1749492.0634920634
+968,The University of Edinburgh,Luxembourg,780563.600258218
+969,The University of Edinburgh,Macao (Special Administrative Region of China),874746.0317460317
+970,The University of Edinburgh,Malawi,352225.3005037713
+971,The University of Edinburgh,Malaysia,12078748.736614179
+972,The University of Edinburgh,Maldives,145791.0052910053
+973,The University of Edinburgh,Malta,601233.4534011596
+974,The University of Edinburgh,Mauritius,540590.1634793988
+975,The University of Edinburgh,Mexico,1263110.1967240798
+976,The University of Edinburgh,Morocco,145791.0052910053
+977,The University of Edinburgh,Myanmar (Burma),446407.7319915851
+978,The University of Edinburgh,Namibia,197399.5790941968
+979,The University of Edinburgh,Nepal,300616.7267005798
+980,The University of Edinburgh,Netherlands,2815202.6811219463
+981,The University of Edinburgh,New Zealand,549624.8795979681
+982,The University of Edinburgh,Nicaragua,103217.14760638299
+983,The University of Edinburgh,Nigeria,1220536.3390394575
+984,The University of Edinburgh,North Macedonia,145791.0052910053
+985,The University of Edinburgh,Norway,4400834.307085866
+986,The University of Edinburgh,Oman,394799.1581883936
+987,The University of Edinburgh,Pakistan,1494048.9173843297
+988,The University of Edinburgh,Panama,145791.0052910053
+989,The University of Edinburgh,Paraguay,249008.1528973883
+990,The University of Edinburgh,Peru,446407.7319915851
+991,The University of Edinburgh,Philippines,446407.7319915851
+992,The University of Edinburgh,Poland,5309119.480397952
+993,The University of Edinburgh,Portugal,1466944.7690286222
+994,The University of Edinburgh,Qatar,498016.3057947766
+995,The University of Edinburgh,Romania,1363727.621422239
+996,The University of Edinburgh,Russia,1964961.0748233986
+997,The University of Edinburgh,Rwanda,300616.7267005798
+998,The University of Edinburgh,Saudi,1254075.4806055105
+999,The University of Edinburgh,Serbia,145791.0052910053
+1000,The University of Edinburgh,Sierra Leone,51608.573803191495
+1001,The University of Edinburgh,Singapore,6502551.671081701
+1002,The University of Edinburgh,Slovakia,2435873.232262468
+1003,The University of Edinburgh,Slovenia,832172.1740614094
+1004,The University of Edinburgh,South Africa,4649842.459983255
+1005,The University of Edinburgh,Spain,8844242.471856356
+1006,The University of Edinburgh,Sri Lanka,498016.3057947766
+1007,The University of Edinburgh,Sudan,197399.5790941968
+1008,The University of Edinburgh,Sweden,2444907.9483810365
+1009,The University of Edinburgh,Switzerland,3440940.5599705903
+1010,The University of Edinburgh,Taiwan,2860376.261714793
+1011,The University of Edinburgh,Tanzania,343190.5843852021
+1012,The University of Edinburgh,Thailand,1846274.217888101
+1013,The University of Edinburgh,Trinidad & Tobago,249008.1528973883
+1014,The University of Edinburgh,Tunisia,145791.0052910053
+1015,The University of Edinburgh,Turkey,2857776.538806569
+1017,The University of Edinburgh,Uganda,103217.14760638299
+1018,The University of Edinburgh,Ukraine,291582.0105820106
+1019,The University of Edinburgh,UAE,4024104.5811346113
+1020,The University of Edinburgh,United States,41674580.06692911
+1021,The University of Edinburgh,Vietnam,394799.1581883936
+1022,The University of Edinburgh,Zambia,789598.3163767871
+1023,The University of Edinburgh,Zimbabwe,986997.8954709839
+1024,The University of Exeter,Albania,131416.9741697417
+1025,The University of Exeter,Angola,131416.9741697417
+1026,The University of Exeter,Argentina,131416.9741697417
+1027,The University of Exeter,Australia,394250.9225092251
+1028,The University of Exeter,Austria,525667.8966789668
+1029,The University of Exeter,Azerbaijan,394250.9225092251
+1030,The University of Exeter,Bahrain,394758.0374083093
+1031,The University of Exeter,Bangladesh,263848.1781376518
+1032,The University of Exeter,Belgium,1051335.7933579336
+1033,The University of Exeter,Bermuda,131416.9741697417
+1034,The University of Exeter,Botswana,262833.9483394834
+1035,The University of Exeter,Brazil,394250.9225092251
+1036,The University of Exeter,Brunei,131416.9741697417
+1037,The University of Exeter,Bulgaria,394250.9225092251
+1038,The University of Exeter,Canada,1709942.0089038946
+1039,The University of Exeter,Cayman Islands,394250.9225092251
+1040,The University of Exeter,Chile,263341.0632385676
+1041,The University of Exeter,China,53619065.47574585
+1042,The University of Exeter,Colombia,394758.0374083093
+1043,The University of Exeter,Croatia,263341.0632385676
+1044,The University of Exeter,Cyprus (European Union),394250.9225092251
+1045,The University of Exeter,Czech Republic,526175.011578051
+1046,The University of Exeter,Denmark,131416.9741697417
+1047,The University of Exeter,Ecuador,394250.9225092251
+1048,The University of Exeter,Egypt,657591.9857477928
+1049,The University of Exeter,Europe not otherwise specified,65962.04453441295
+1050,The University of Exeter,European Union not otherwise specified,65962.04453441295
+1051,The University of Exeter,Finland,131416.9741697417
+1052,The University of Exeter,France,7689667.891076684
+1053,The University of Exeter,"Gambia, The",131416.9741697417
+1054,The University of Exeter,Georgia,263341.0632385676
+1055,The University of Exeter,Germany,2564405.898456758
+1056,The University of Exeter,Ghana,658606.2155459612
+1057,The University of Exeter,Gibraltar,394250.9225092251
+1058,The University of Exeter,Greece,1249221.9269611724
+1059,The University of Exeter,Hong Kong (SAR),23530737.984970946
+1060,The University of Exeter,Hungary,262833.9483394834
+1061,The University of Exeter,India,18716485.856103502
+1062,The University of Exeter,Indonesia,2367533.9946516873
+1064,The University of Exeter,Iran,527189.2413762194
+1065,The University of Exeter,Ireland,855478.1193510316
+1066,The University of Exeter,Italy,2563898.7835576735
+1067,The University of Exeter,Japan,1446600.9456653271
+1068,The University of Exeter,Jordan,657591.9857477928
+1069,The University of Exeter,Kazakhstan,920425.9340872761
+1070,The University of Exeter,Kenya,657591.9857477928
+1071,The University of Exeter,Korea (South),2368548.2244498557
+1072,The University of Exeter,Kuwait,263341.0632385676
+1073,The University of Exeter,Kyrgyzstan,131416.9741697417
+1074,The University of Exeter,Lebanon,263341.0632385676
+1075,The University of Exeter,Lithuania,262833.9483394834
+1076,The University of Exeter,Luxembourg,394250.9225092251
+1077,The University of Exeter,Macao (Special Administrative Region of China),394758.0374083093
+1078,The University of Exeter,Malaysia,3878575.6401541745
+1079,The University of Exeter,Maldives,131416.9741697417
+1080,The University of Exeter,Malta,131416.9741697417
+1081,The University of Exeter,Mauritius,788501.8450184502
+1082,The University of Exeter,Mexico,131416.9741697417
+1083,The University of Exeter,Monaco,131416.9741697417
+1084,The University of Exeter,Morocco,263341.0632385676
+1085,The University of Exeter,Myanmar (Burma),394758.0374083093
+1086,The University of Exeter,Nepal,263848.1781376518
+1087,The University of Exeter,Netherlands,788501.8450184502
+1088,The University of Exeter,New Zealand,131416.9741697417
+1089,The University of Exeter,Nigeria,2435017.383883353
+1090,The University of Exeter,Norway,1051842.9082570178
+1091,The University of Exeter,Oman,1577510.8049359845
+1092,The University of Exeter,Pakistan,2106221.3910094565
+1093,The University of Exeter,Panama,131416.9741697417
+1094,The University of Exeter,Peru,394758.0374083093
+1095,The University of Exeter,Philippines,131416.9741697417
+1096,The University of Exeter,Poland,789008.9599175344
+1097,The University of Exeter,Portugal,1314676.856596501
+1098,The University of Exeter,Qatar,131416.9741697417
+1099,The University of Exeter,Romania,854971.0044519473
+1100,The University of Exeter,Russia,2038230.8868787067
+1101,The University of Exeter,Saudi,1711970.4685002314
+1102,The University of Exeter,Sierra Leone,131924.0890688259
+1103,The University of Exeter,Singapore,3680182.3916518516
+1104,The University of Exeter,Slovakia,394250.9225092251
+1105,The University of Exeter,South Africa,1446093.8307662427
+1106,The University of Exeter,Spain,4337267.262500561
+1107,The University of Exeter,Sri Lanka,394250.9225092251
+1108,The University of Exeter,Sweden,525667.8966789668
+1109,The University of Exeter,Switzerland,3023097.5208031433
+1110,The University of Exeter,Syria,131924.0890688259
+1111,The University of Exeter,Taiwan,1119833.4123877676
+1112,The University of Exeter,Tanzania,131416.9741697417
+1113,The University of Exeter,Thailand,4741153.368092386
+1114,The University of Exeter,Tunisia,131416.9741697417
+1115,The University of Exeter,Turkey,2302586.179915443
+1117,The University of Exeter,Uganda,131924.0890688259
+1118,The University of Exeter,Ukraine,657084.8708487084
+1119,The University of Exeter,UAE,4206864.5181289865
+1120,The University of Exeter,United States,4541238.774892809
+1121,The University of Exeter,Uzbekistan,131416.9741697417
+1122,The University of Exeter,Vietnam,1184274.1122249279
+1123,The University of Exeter,Zambia,131416.9741697417
+1124,The University of Exeter,Zimbabwe,394758.0374083093
+1125,The University of Glasgow,Argentina,137162.60162601626
+1126,The University of Glasgow,Armenia,137162.60162601626
+1127,The University of Glasgow,Australia,478374.3006752101
+1128,The University of Glasgow,Austria,1292875.885352074
+1129,The University of Glasgow,Azerbaijan,411487.8048780488
+1130,The University of Glasgow,Bahrain,476679.49565936334
+1131,The University of Glasgow,Bangladesh,1505399.0078544852
+1132,The University of Glasgow,Belgium,1088826.7879288963
+1133,The University of Glasgow,Bolivia,137162.60162601626
+1134,The University of Glasgow,Bosnia and Herzegovina,137162.60162601626
+1135,The University of Glasgow,Brazil,958443.406366267
+1136,The University of Glasgow,Brunei,948274.5762711865
+1137,The University of Glasgow,Bulgaria,1220904.9745073721
+1138,The University of Glasgow,Cambodia,137162.60162601626
+1139,The University of Glasgow,Canada,4092845.58357448
+1140,The University of Glasgow,Cayman Islands,135467.7966101695
+1141,The University of Glasgow,Chile,478374.3006752101
+1142,The University of Glasgow,China,236777102.397685
+1143,The University of Glasgow,Colombia,546955.6014882183
+1144,The University of Glasgow,Croatia,272630.3982361858
+1145,The University of Glasgow,Cyprus (European Union),1301349.9104313077
+1146,The University of Glasgow,Cyprus (Non-European Union),137162.60162601626
+1147,The University of Glasgow,Cyprus not otherwise specified,3928566.1016949154
+1148,The University of Glasgow,Czech Republic,1764470.9659638968
+1149,The University of Glasgow,Denmark,816196.3896927105
+1150,The University of Glasgow,Ecuador,272630.3982361858
+1151,The University of Glasgow,Egypt,1839831.486840292
+1152,The University of Glasgow,Estonia,135467.7966101695
+1153,The University of Glasgow,Faroe Islands,135467.7966101695
+1154,The University of Glasgow,Finland,1083742.372881356
+1155,The University of Glasgow,France,5372163.02879978
+1156,The University of Glasgow,Georgia,411487.8048780488
+1157,The University of Glasgow,Germany,6335690.850213587
+1158,The University of Glasgow,Ghana,685813.0081300812
+1159,The University of Glasgow,Gibraltar,135467.7966101695
+1160,The University of Glasgow,Greece,3473919.0712415595
+1161,The University of Glasgow,Guatemala,137162.60162601626
+1162,The University of Glasgow,Hong Kong (SAR),5644793.427035965
+1163,The University of Glasgow,Hungary,1762776.1609480502
+1164,The University of Glasgow,India,26346177.442469336
+1165,The University of Glasgow,Indonesia,4037822.7228882457
+1167,The University of Glasgow,Iran,546955.6014882183
+1168,The University of Glasgow,Iraq,272630.3982361858
+1169,The University of Glasgow,Ireland,2727998.787377704
+1170,The University of Glasgow,Italy,5104617.045611134
+1171,The University of Glasgow,Japan,1364846.7961967755
+1172,The University of Glasgow,Jordan,272630.3982361858
+1173,The University of Glasgow,Kazakhstan,1095606.0079922834
+1174,The University of Glasgow,Kenya,749309.8938955491
+1175,The University of Glasgow,Korea (South),1702668.8852142757
+1176,The University of Glasgow,Kosovo,137162.60162601626
+1177,The University of Glasgow,Kuwait,5291718.092875844
+1178,The University of Glasgow,Kyrgyzstan,137162.60162601626
+1179,The University of Glasgow,Latvia,408098.19484635524
+1180,The University of Glasgow,Lebanon,478374.3006752101
+1181,The University of Glasgow,Libya,137162.60162601626
+1182,The University of Glasgow,Lithuania,881388.0804740251
+1183,The University of Glasgow,Luxembourg,816196.3896927105
+1184,The University of Glasgow,Macao (Special Administrative Region of China),272630.3982361858
+1185,The University of Glasgow,Malawi,272630.3982361858
+1186,The University of Glasgow,Malaysia,5704900.70276974
+1187,The University of Glasgow,Maldives,135467.7966101695
+1188,The University of Glasgow,Malta,137162.60162601626
+1189,The University of Glasgow,Mauritius,272630.3982361858
+1190,The University of Glasgow,Mexico,1438512.512057324
+1191,The University of Glasgow,Mongolia,408098.19484635524
+1192,The University of Glasgow,Morocco,272630.3982361858
+1193,The University of Glasgow,Myanmar (Burma),272630.3982361858
+1194,The University of Glasgow,Nepal,272630.3982361858
+1195,The University of Glasgow,Netherlands,1839831.486840292
+1196,The University of Glasgow,New Zealand,68581.30081300813
+1197,The University of Glasgow,Nigeria,3628029.7230260437
+1198,The University of Glasgow,Norway,951664.18630288
+1199,The University of Glasgow,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},274325.2032520325
+1200,The University of Glasgow,Oman,1898243.9575582198
+1201,The University of Glasgow,Pakistan,2666196.7066280833
+1202,The University of Glasgow,Panama,272630.3982361858
+1203,The University of Glasgow,Peru,274325.2032520325
+1204,The University of Glasgow,Philippines,409792.999862202
+1205,The University of Glasgow,Poland,2510391.2498277524
+1206,The University of Glasgow,Portugal,612147.2922695329
+1207,The University of Glasgow,Puerto Rico,270935.593220339
+1208,The University of Glasgow,Qatar,612147.2922695329
+1209,The University of Glasgow,Romania,949969.3812870332
+1210,The University of Glasgow,Russia,1435122.9020256305
+1211,The University of Glasgow,Saudi,2594225.7957833814
+1212,The University of Glasgow,Serbia,137162.60162601626
+1213,The University of Glasgow,Sierra Leone,137162.60162601626
+1214,The University of Glasgow,Singapore,3731296.2243351247
+1215,The University of Glasgow,Slovakia,3323198.0294887694
+1216,The University of Glasgow,Slovenia,135467.7966101695
+1217,The University of Glasgow,South Africa,1021940.2921317349
+1218,The University of Glasgow,Spain,6315353.190023426
+1219,The University of Glasgow,Sri Lanka,545260.7964723716
+1220,The University of Glasgow,Sudan,137162.60162601626
+1221,The University of Glasgow,Sweden,1560421.8685407194
+1222,The University of Glasgow,Switzerland,1020245.4871158882
+1223,The University of Glasgow,Syria,272630.3982361858
+1224,The University of Glasgow,Taiwan,2738167.6174727846
+1225,The University of Glasgow,Tanzania,274325.2032520325
+1226,The University of Glasgow,Thailand,2738167.6174727846
+1227,The University of Glasgow,Turkey,1229378.999586606
+1229,The University of Glasgow,Uganda,272630.3982361858
+1230,The University of Glasgow,Ukraine,684118.2031142345
+1231,The University of Glasgow,UAE,2311426.567452115
+1232,The University of Glasgow,United States,22813729.29585228
+1233,The University of Glasgow,Uruguay,137162.60162601626
+1234,The University of Glasgow,Uzbekistan,137162.60162601626
+1235,The University of Glasgow,Vietnam,889862.1055532588
+1236,The University of Glasgow,Zimbabwe,272630.3982361858
+1237,The University of Leeds,Albania,136657.19696969696
+1238,The University of Leeds,Algeria,136657.19696969696
+1239,The University of Leeds,Angola,136657.19696969696
+1240,The University of Leeds,Australia,193960.33957533076
+1241,The University of Leeds,Austria,409971.5909090909
+1242,The University of Leeds,Bahrain,1229914.7727272727
+1243,The University of Leeds,Bangladesh,617133.2495731968
+1244,The University of Leeds,Belgium,683285.9848484849
+1245,The University of Leeds,Bermuda,251263.48218096455
+1246,The University of Leeds,Botswana,136657.19696969696
+1247,The University of Leeds,Brazil,273314.3939393939
+1248,The University of Leeds,Brunei,387920.6791506615
+1249,The University of Leeds,Bulgaria,2459829.5454545454
+1250,The University of Leeds,Cambodia,136657.19696969696
+1251,The University of Leeds,Cameroon,136657.19696969696
+1252,The University of Leeds,Canada,2860951.543693982
+1253,The University of Leeds,Canary Islands,273314.3939393939
+1254,The University of Leeds,Cayman Islands,136657.19696969696
+1255,The University of Leeds,Chile,229212.5704225352
+1256,The University of Leeds,China,117518759.24135724
+1257,The University of Leeds,Colombia,251263.48218096455
+1258,The University of Leeds,Croatia,136657.19696969696
+1259,The University of Leeds,Cyprus (European Union),3601540.671148101
+1260,The University of Leeds,Czech Republic,524577.8761203585
+1261,The University of Leeds,Denmark,136657.19696969696
+1262,The University of Leeds,Egypt,2997608.740663679
+1263,The University of Leeds,Estonia,136657.19696969696
+1264,The University of Leeds,Finland,273314.3939393939
+1265,The University of Leeds,France,2107161.097151088
+1266,The University of Leeds,Germany,1128509.80660478
+1267,The University of Leeds,Ghana,617133.2495731968
+1268,The University of Leeds,Gibraltar,409971.5909090909
+1269,The University of Leeds,Greece,1595784.540119505
+1270,The University of Leeds,Guyana,136657.19696969696
+1271,The University of Leeds,Hong Kong (SAR),10941279.210413998
+1272,The University of Leeds,Hungary,661235.0730900555
+1273,The University of Leeds,India,20903030.29129321
+1274,The University of Leeds,Indonesia,2649292.0187793425
+1276,The University of Leeds,Iran,365869.7673922322
+1277,The University of Leeds,Iraq,136657.19696969696
+1278,The University of Leeds,Ireland,696487.3039372598
+1279,The University of Leeds,Italy,1459127.343149808
+1280,The University of Leeds,Jamaica,114606.2852112676
+1281,The University of Leeds,Japan,1507580.8930857875
+1282,The University of Leeds,Jordan,1071206.6639991463
+1283,The University of Leeds,Kenya,1459127.343149808
+1284,The University of Leeds,Korea (South),2120362.4162398633
+1285,The University of Leeds,Kuwait,6916565.6292680325
+1286,The University of Leeds,Latvia,683285.9848484849
+1287,The University of Leeds,Lebanon,546628.7878787878
+1288,The University of Leeds,Lithuania,956600.3787878787
+1289,The University of Leeds,Luxembourg,136657.19696969696
+1290,The University of Leeds,Macao (Special Administrative Region of China),409971.5909090909
+1291,The University of Leeds,Malawi,114606.2852112676
+1292,The University of Leeds,Malaysia,7062072.4189073825
+1293,The University of Leeds,Maldives,273314.3939393939
+1294,The University of Leeds,Malta,114606.2852112676
+1295,The University of Leeds,Mauritius,273314.3939393939
+1296,The University of Leeds,Mexico,445223.82175629534
+1297,The University of Leeds,Myanmar (Burma),524577.8761203585
+1298,The University of Leeds,Nepal,251263.48218096455
+1299,The University of Leeds,Netherlands,387920.6791506615
+1300,The University of Leeds,New Zealand,136657.19696969696
+1301,The University of Leeds,Nigeria,3160668.575810926
+1302,The University of Leeds,Norway,1344521.0579385404
+1303,The University of Leeds,Oman,4408282.533877507
+1304,The University of Leeds,Pakistan,1335671.465268886
+1305,The University of Leeds,Peru,639184.1613316261
+1306,The University of Leeds,Philippines,114606.2852112676
+1307,The University of Leeds,Poland,1891149.8458173282
+1308,The University of Leeds,Portugal,661235.0730900555
+1309,The University of Leeds,Qatar,1401824.200544174
+1310,The University of Leeds,Romania,1503229.1666666665
+1311,The University of Leeds,Russia,661235.0730900555
+1312,The University of Leeds,Saudi,5179626.025928297
+1313,The University of Leeds,Seychelles,136657.19696969696
+1314,The University of Leeds,Singapore,2301121.436726419
+1315,The University of Leeds,Slovakia,136657.19696969696
+1316,The University of Leeds,South Africa,661235.0730900555
+1317,The University of Leeds,Spain,2415727.7219376867
+1318,The University of Leeds,Sri Lanka,409971.5909090909
+1319,The University of Leeds,Sudan,136657.19696969696
+1320,The University of Leeds,Sweden,273314.3939393939
+1321,The University of Leeds,Switzerland,1207863.8609688433
+1322,The University of Leeds,Taiwan,2173167.692594964
+1323,The University of Leeds,Tanzania,251263.48218096455
+1324,The University of Leeds,Thailand,2834402.765685019
+1325,The University of Leeds,Trinidad & Tobago,136657.19696969696
+1326,The University of Leeds,Turkey,890447.6435125907
+1328,The University of Leeds,Uganda,696487.3039372598
+1329,The University of Leeds,Ukraine,273314.3939393939
+1330,The University of Leeds,UAE,6960667.45278489
+1331,The University of Leeds,United States,2433280.7674455824
+1332,The University of Leeds,Uzbekistan,114606.2852112676
+1333,The University of Leeds,Vietnam,639184.1613316261
+1334,The University of Leeds,Zambia,251263.48218096455
+1335,The University of Leeds,Zimbabwe,251263.48218096455
+1336,The University of Liverpool,Algeria,130213.90374331552
+1337,The University of Liverpool,Angola,130213.90374331552
+1338,The University of Liverpool,Australia,509772.9946524064
+1339,The University of Liverpool,Austria,130213.90374331552
+1340,The University of Liverpool,Bahrain,390641.7112299465
+1341,The University of Liverpool,Bangladesh,256733.60071301248
+1342,The University of Liverpool,Belgium,260427.80748663103
+1343,The University of Liverpool,Botswana,130213.90374331552
+1344,The University of Liverpool,Brunei,130213.90374331552
+1345,The University of Liverpool,Bulgaria,390641.7112299465
+1346,The University of Liverpool,Canada,580421.256684492
+1347,The University of Liverpool,Cayman Islands,130213.90374331552
+1348,The University of Liverpool,China,68416768.3600713
+1349,The University of Liverpool,Croatia,130213.90374331552
+1350,The University of Liverpool,Cyprus (European Union),1562566.844919786
+1351,The University of Liverpool,Czech Republic,130213.90374331552
+1352,The University of Liverpool,Denmark,63259.84848484848
+1353,The University of Liverpool,Ecuador,126519.69696969696
+1354,The University of Liverpool,Egypt,1168230.9269162212
+1355,The University of Liverpool,Estonia,130213.90374331552
+1356,The University of Liverpool,Finland,63259.84848484848
+1357,The University of Liverpool,France,844543.2709447416
+1358,The University of Liverpool,Germany,453901.559714795
+1359,The University of Liverpool,Ghana,256733.60071301248
+1360,The University of Liverpool,Gibraltar,520855.61497326207
+1361,The University of Liverpool,Greece,450207.3529411765
+1362,The University of Liverpool,Hong Kong (SAR),3962288.547237077
+1363,The University of Liverpool,Hungary,130213.90374331552
+1364,The University of Liverpool,India,17589473.752228163
+1365,The University of Liverpool,Indonesia,260427.80748663103
+1367,The University of Liverpool,Iran,383253.2976827094
+1368,The University of Liverpool,Iraq,130213.90374331552
+1369,The University of Liverpool,Ireland,1406493.4937611409
+1370,The University of Liverpool,Italy,1097582.6648841356
+1371,The University of Liverpool,Japan,517161.4081996435
+1372,The University of Liverpool,Jordan,390641.7112299465
+1373,The University of Liverpool,Kenya,256733.60071301248
+1374,The University of Liverpool,Korea (South),781283.422459893
+1375,The University of Liverpool,Kuwait,4669229.500891266
+1376,The University of Liverpool,Latvia,130213.90374331552
+1377,The University of Liverpool,Lebanon,130213.90374331552
+1378,The University of Liverpool,Lithuania,260427.80748663103
+1379,The University of Liverpool,Malaysia,6507000.980392157
+1380,The University of Liverpool,Maldives,130213.90374331552
+1381,The University of Liverpool,Mauritius,130213.90374331552
+1382,The University of Liverpool,Mexico,253039.39393939392
+1383,The University of Liverpool,Morocco,130213.90374331552
+1384,The University of Liverpool,Myanmar (Burma),130213.90374331552
+1385,The University of Liverpool,Netherlands,63259.84848484848
+1386,The University of Liverpool,New Zealand,63259.84848484848
+1387,The University of Liverpool,Nigeria,1730181.1497326202
+1388,The University of Liverpool,Norway,714329.3672014261
+1389,The University of Liverpool,Oman,4163150.713012478
+1390,The University of Liverpool,Pakistan,893026.2923351158
+1391,The University of Liverpool,Peru,130213.90374331552
+1392,The University of Liverpool,Philippines,193473.752228164
+1393,The University of Liverpool,Poland,1819300.4456327986
+1394,The University of Liverpool,Portugal,517161.4081996435
+1395,The University of Liverpool,Qatar,2083422.4598930483
+1396,The University of Liverpool,Romania,1104971.0784313725
+1397,The University of Liverpool,Russia,386947.504456328
+1398,The University of Liverpool,Rwanda,130213.90374331552
+1399,The University of Liverpool,Saudi,2909494.6969696973
+1400,The University of Liverpool,Singapore,844543.2709447416
+1401,The University of Liverpool,Slovakia,193473.752228164
+1402,The University of Liverpool,South Africa,256733.60071301248
+1403,The University of Liverpool,Spain,1358010.4723707666
+1404,The University of Liverpool,Sri Lanka,386947.504456328
+1405,The University of Liverpool,Sweden,193473.752228164
+1406,The University of Liverpool,Switzerland,390641.7112299465
+1407,The University of Liverpool,Taiwan,773895.008912656
+1408,The University of Liverpool,Tanzania,130213.90374331552
+1409,The University of Liverpool,Thailand,896720.4991087343
+1410,The University of Liverpool,Trinidad & Tobago,130213.90374331552
+1411,The University of Liverpool,Turkey,513467.20142602496
+1413,The University of Liverpool,Uganda,130213.90374331552
+1414,The University of Liverpool,UAE,2213636.3636363638
+1415,The University of Liverpool,United States,1026934.4028520499
+1416,The University of Liverpool,Vietnam,256733.60071301248
+1417,The University of Liverpool,Zambia,260427.80748663103
+1418,The University of Liverpool,Zimbabwe,130213.90374331552
+1419,The University of Manchester,Albania,141931.10647181628
+1420,The University of Manchester,Algeria,283862.21294363256
+1421,The University of Manchester,Argentina,141931.10647181628
+1422,The University of Manchester,Armenia,141931.10647181628
+1423,The University of Manchester,Australia,354155.1697542638
+1424,The University of Manchester,Austria,850241.445980344
+1425,The University of Manchester,Azerbaijan,282517.0200930787
+1426,The University of Manchester,Bahrain,566379.2330367113
+1427,The University of Manchester,Bangladesh,1130068.080372315
+1428,The University of Manchester,Belgium,1701828.0848112416
+1429,The University of Manchester,Bermuda,141931.10647181628
+1430,The University of Manchester,Bhutan,141931.10647181628
+1431,The University of Manchester,Bolivia,141931.10647181628
+1432,The University of Manchester,Botswana,708310.3395085277
+1433,The University of Manchester,Brazil,566379.2330367113
+1434,The University of Manchester,British Virgin Islands,141931.10647181628
+1435,The University of Manchester,Brunei,709655.5323590814
+1436,The University of Manchester,Bulgaria,3548277.6617954075
+1437,The University of Manchester,Cambodia,141931.10647181628
+1438,The University of Manchester,Cameroon,141931.10647181628
+1439,The University of Manchester,Canada,2051947.676013844
+1440,The University of Manchester,Cayman Islands,141931.10647181628
+1441,The University of Manchester,Chile,563688.8473356037
+1442,The University of Manchester,China,236672586.8455184
+1443,The University of Manchester,Colombia,563688.8473356037
+1444,The University of Manchester,Congo (Democratic Republic) {formerly Zaire},70292.95681063124
+1445,The University of Manchester,Croatia,283862.21294363256
+1446,The University of Manchester,Cyprus (European Union),3686173.1897155624
+1447,The University of Manchester,Czech Republic,1134103.6589239766
+1448,The University of Manchester,Denmark,141931.10647181628
+1449,The University of Manchester,Ecuador,566379.2330367113
+1450,The University of Manchester,Egypt,2973827.271655373
+1451,The University of Manchester,Estonia,425793.3194154489
+1452,The University of Manchester,Ethiopia,210878.8704318937
+1453,The University of Manchester,Finland,425793.3194154489
+1454,The University of Manchester,France,5320398.70341728
+1455,The University of Manchester,Germany,2764293.594074033
+1456,The University of Manchester,Ghana,352809.97690371
+1457,The University of Manchester,Gibraltar,141931.10647181628
+1458,The University of Manchester,Greece,2265516.9321468454
+1459,The University of Manchester,Hong Kong (SAR),13180760.201971162
+1460,The University of Manchester,Hungary,1703173.2776617955
+1461,The University of Manchester,India,26556599.888749402
+1462,The University of Manchester,Indonesia,4099859.7734760265
+1464,The University of Manchester,Iran,848896.2531297901
+1465,The University of Manchester,Iraq,212224.06328244752
+1466,The University of Manchester,Ireland,1627499.5494489488
+1467,The University of Manchester,Israel,141931.10647181628
+1468,The University of Manchester,Italy,4182259.4659416424
+1469,The University of Manchester,Japan,2262826.5464457376
+1470,The University of Manchester,Jordan,1132758.4660734227
+1471,The University of Manchester,Kazakhstan,990827.3596016064
+1472,The University of Manchester,Kenya,1274689.572545239
+1473,The University of Manchester,Korea (South),4747293.5061278
+1474,The University of Manchester,Kuwait,7230415.272959308
+1475,The University of Manchester,Kyrgyzstan,141931.10647181628
+1476,The University of Manchester,Latvia,425793.3194154489
+1477,The University of Manchester,Lebanon,919189.2099404213
+1478,The University of Manchester,Libya,141931.10647181628
+1479,The University of Manchester,Lithuania,3122484.3423799584
+1480,The University of Manchester,Luxembourg,283862.21294363256
+1481,The University of Manchester,Macao (Special Administrative Region of China),850241.445980344
+1482,The University of Manchester,Malawi,141931.10647181628
+1483,The University of Manchester,Malaysia,18372679.727422163
+1484,The University of Manchester,Maldives,851586.6388308977
+1485,The University of Manchester,Malta,141931.10647181628
+1486,The University of Manchester,Mauritius,709655.5323590814
+1487,The University of Manchester,Mexico,705619.9538074199
+1488,The University of Manchester,Mongolia,141931.10647181628
+1489,The University of Manchester,Morocco,566379.2330367113
+1490,The University of Manchester,Myanmar (Burma),708310.3395085277
+1491,The University of Manchester,Netherlands,1062465.5092627914
+1492,The University of Manchester,New Zealand,141931.10647181628
+1493,The University of Manchester,Nigeria,3250963.5203462364
+1494,The University of Manchester,North Macedonia,567724.4258872651
+1495,The University of Manchester,Norway,1843759.191283058
+1496,The University of Manchester,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},141931.10647181628
+1497,The University of Manchester,Oman,1559896.9783394253
+1498,The University of Manchester,Pakistan,3463187.5836286843
+1499,The University of Manchester,Panama,141931.10647181628
+1500,The University of Manchester,Paraguay,140585.91362126247
+1501,The University of Manchester,Peru,1554516.2069372102
+1502,The University of Manchester,Philippines,424448.12656489504
+1503,The University of Manchester,Poland,3901087.638699117
+1504,The University of Manchester,Portugal,1914052.1480936892
+1505,The University of Manchester,Qatar,709655.5323590814
+1506,The University of Manchester,Romania,8442883.045797238
+1507,The University of Manchester,Russia,2126276.2113761366
+1508,The University of Manchester,Rwanda,140585.91362126247
+1509,The University of Manchester,Saudi,8993119.964627303
+1510,The University of Manchester,Serbia,141931.10647181628
+1511,The University of Manchester,Seychelles,141931.10647181628
+1512,The University of Manchester,Singapore,4255242.808453381
+1513,The University of Manchester,Slovakia,1276034.7653957927
+1514,The University of Manchester,South Africa,709655.5323590814
+1515,The University of Manchester,Spain,8159020.832853606
+1516,The University of Manchester,Sri Lanka,566379.2330367113
+1517,The University of Manchester,Sudan,141931.10647181628
+1518,The University of Manchester,Sweden,638017.3826978963
+1519,The University of Manchester,Switzerland,1417965.871867609
+1520,The University of Manchester,Taiwan,4089098.230671596
+1521,The University of Manchester,Tanzania,282517.0200930787
+1522,The University of Manchester,Thailand,3390204.2411169447
+1523,The University of Manchester,Trinidad & Tobago,425793.3194154489
+1524,The University of Manchester,Turkey,3613189.8472038233
+1525,The University of Manchester,Turks and Caicos Islands,141931.10647181628
+1527,The University of Manchester,Uganda,352809.97690371
+1528,The University of Manchester,Ukraine,425793.3194154489
+1529,The University of Manchester,UAE,6380173.826978964
+1530,The University of Manchester,United States,5017703.790565894
+1531,The University of Manchester,Uzbekistan,566379.2330367113
+1532,The University of Manchester,Vietnam,993517.745302714
+1533,The University of Manchester,Yemen,70292.95681063124
+1534,The University of Manchester,Zambia,141931.10647181628
+1535,The University of Manchester,Zimbabwe,282517.0200930787
+1536,The University of Oxford,Afghanistan,221611.6093117409
+1537,The University of Oxford,Angola,73870.53643724696
+1538,The University of Oxford,Argentina,147741.07287449393
+1539,The University of Oxford,Australia,5891386.258290981
+1540,The University of Oxford,Austria,1574075.5771384272
+1541,The University of Oxford,Azerbaijan,73870.53643724696
+1542,The University of Oxford,Bahrain,73870.53643724696
+1543,The University of Oxford,Bangladesh,578195.2353777242
+1544,The University of Oxford,Belgium,1991760.6835214058
+1545,The University of Oxford,Brazil,947547.917563959
+1546,The University of Oxford,Bulgaria,1683509.4816521662
+1547,The University of Oxford,Cameroon,147741.07287449393
+1548,The University of Oxford,Canada,7615946.708588164
+1549,The University of Oxford,Chile,369352.6821862348
+1550,The University of Oxford,China,33953852.66797312
+1551,The University of Oxford,Colombia,812575.9008097165
+1552,The University of Oxford,Costa Rica,147741.07287449393
+1553,The University of Oxford,Cyprus (European Union),504324.6989404772
+1554,The University of Oxford,Czech Republic,1056981.8220776983
+1555,The University of Oxford,Denmark,922009.805323456
+1556,The University of Oxford,Ecuador,147741.07287449393
+1557,The University of Oxford,Egypt,221611.6093117409
+1558,The University of Oxford,Estonia,282713.0896287363
+1559,The University of Oxford,Ethiopia,221611.6093117409
+1560,The University of Oxford,Finland,639296.7156947197
+1561,The University of Oxford,France,4144031.4960375573
+1562,The University of Oxford,Georgia,147741.07287449393
+1563,The University of Oxford,Germany,10099263.034929795
+1564,The University of Oxford,Ghana,738705.3643724696
+1565,The University of Oxford,Greece,1561306.5210181754
+1566,The University of Oxford,Honduras,147741.07287449393
+1567,The University of Oxford,Hong Kong (SAR),9329531.957748298
+1568,The University of Oxford,Hungary,1056981.8220776983
+1569,The University of Oxford,Iceland,147741.07287449393
+1570,The University of Oxford,India,7985299.390774399
+1571,The University of Oxford,Indonesia,1365233.0239469376
+1573,The University of Oxford,Ireland,3087049.6739598587
+1574,The University of Oxford,Israel,517093.75506072876
+1575,The University of Oxford,Italy,4057391.9034800585
+1576,The University of Oxford,Jamaica,221611.6093117409
+1577,The University of Oxford,Japan,1525743.1529416833
+1578,The University of Oxford,Jordan,221611.6093117409
+1579,The University of Oxford,Kazakhstan,221611.6093117409
+1580,The University of Oxford,Kenya,443223.2186234818
+1581,The University of Oxford,Korea (South),3170945.4662330947
+1582,The University of Oxford,Kuwait,221611.6093117409
+1583,The University of Oxford,Lebanon,443223.2186234818
+1584,The University of Oxford,Lithuania,639296.7156947197
+1585,The University of Oxford,Luxembourg,491555.6428202257
+1586,The University of Oxford,Malawi,147741.07287449393
+1587,The University of Oxford,Malaysia,2618288.343095874
+1588,The University of Oxford,Mauritius,208842.55319148937
+1589,The University of Oxford,Mexico,812575.9008097165
+1590,The University of Oxford,Mongolia,73870.53643724696
+1591,The University of Oxford,Myanmar (Burma),147741.07287449393
+1592,The University of Oxford,Nepal,147741.07287449393
+1593,The University of Oxford,Netherlands,2434983.9021448875
+1594,The University of Oxford,New Zealand,1069750.8781979498
+1595,The University of Oxford,Nigeria,1833994.3548109226
+1596,The University of Oxford,Norway,1156390.4707554483
+1597,The University of Oxford,Pakistan,1008649.3978809544
+1598,The University of Oxford,Paraguay,147741.07287449393
+1599,The University of Oxford,Peru,873677.3811267121
+1600,The University of Oxford,Philippines,430454.16250323027
+1601,The University of Oxford,Poland,5651517.992290464
+1602,The University of Oxford,Portugal,639296.7156947197
+1603,The University of Oxford,Qatar,208842.55319148937
+1604,The University of Oxford,Romania,5590416.511973469
+1605,The University of Oxford,Russia,1439103.5603841846
+1606,The University of Oxford,Saudi,652065.7718149712
+1607,The University of Oxford,Serbia,565426.1792574726
+1608,The University of Oxford,Singapore,9708909.895770522
+1609,The University of Oxford,Slovakia,356583.6260659833
+1610,The University of Oxford,Slovenia,208842.55319148937
+1611,The University of Oxford,South Africa,2055605.9641226633
+1612,The University of Oxford,Spain,2274473.7731501423
+1613,The University of Oxford,Sudan,147741.07287449393
+1614,The University of Oxford,Sweden,1217491.9510724437
+1615,The University of Oxford,Switzerland,2865438.064648118
+1616,The University of Oxford,Taiwan,504324.6989404772
+1617,The University of Oxford,Thailand,1487435.9845809285
+1618,The University of Oxford,Trinidad & Tobago,73870.53643724696
+1619,The University of Oxford,Turkey,1856788.6667671632
+1621,The University of Oxford,Uganda,73870.53643724696
+1622,The University of Oxford,UAE,1943428.259324662
+1623,The University of Oxford,United States,29284602.051640965
+1624,The University of Oxford,Uruguay,73870.53643724696
+1625,The University of Oxford,Vietnam,356583.6260659833
+1626,The University of Oxford,Zimbabwe,221611.6093117409
+1627,The University of Sheffield,Algeria,135258.13953488372
+1628,The University of Sheffield,Australia,66167.17336683416
+1629,The University of Sheffield,Austria,135258.13953488372
+1630,The University of Sheffield,Azerbaijan,135258.13953488372
+1631,The University of Sheffield,Bahrain,405774.4186046512
+1632,The University of Sheffield,Belgium,336683.4524366016
+1633,The University of Sheffield,Botswana,541032.5581395349
+1634,The University of Sheffield,Brazil,132334.34673366832
+1635,The University of Sheffield,Brunei,811548.8372093023
+1636,The University of Sheffield,Bulgaria,943883.1839429707
+1637,The University of Sheffield,Canada,871868.4249737058
+1638,The University of Sheffield,Canary Islands,135258.13953488372
+1639,The University of Sheffield,Cayman Islands,135258.13953488372
+1640,The University of Sheffield,China,156826870.60009348
+1641,The University of Sheffield,Colombia,267592.486268552
+1642,The University of Sheffield,Croatia,135258.13953488372
+1643,The University of Sheffield,Cyprus (European Union),3982805.634276031
+1644,The University of Sheffield,Czech Republic,135258.13953488372
+1645,The University of Sheffield,Egypt,2089191.6807876593
+1646,The University of Sheffield,Estonia,270516.27906976745
+1647,The University of Sheffield,Finland,135258.13953488372
+1648,The University of Sheffield,France,1211475.6702115226
+1649,The University of Sheffield,Germany,940959.3911417553
+1650,The University of Sheffield,Ghana,267592.486268552
+1651,The University of Sheffield,Gibraltar,267592.486268552
+1652,The University of Sheffield,Greece,1818675.401717892
+1653,The University of Sheffield,Hong Kong (SAR),9153696.596353862
+1654,The University of Sheffield,Hungary,405774.4186046512
+1655,The University of Sheffield,India,11664045.330431225
+1656,The University of Sheffield,Indonesia,1337962.43134276
+1658,The University of Sheffield,Iran,333759.6596353862
+1659,The University of Sheffield,Iraq,132334.34673366832
+1660,The University of Sheffield,Ireland,601352.1459039382
+1661,The University of Sheffield,Italy,1415824.775914456
+1662,The University of Sheffield,Japan,1073293.7378754236
+1663,The University of Sheffield,Jordan,538108.7653383195
+1664,The University of Sheffield,Kazakhstan,532261.1797358887
+1665,The University of Sheffield,Kenya,1079141.3234778543
+1666,The University of Sheffield,Korea (South),1746660.6427486269
+1667,The University of Sheffield,Kuwait,2017176.9218183942
+1668,The University of Sheffield,Latvia,135258.13953488372
+1669,The University of Sheffield,Lebanon,270516.27906976745
+1670,The University of Sheffield,Lithuania,405774.4186046512
+1671,The University of Sheffield,Luxembourg,135258.13953488372
+1672,The University of Sheffield,Macao (Special Administrative Region of China),402850.6258034358
+1673,The University of Sheffield,Malaysia,7623080.230513031
+1674,The University of Sheffield,Malta,333759.6596353862
+1675,The University of Sheffield,Mauritius,270516.27906976745
+1676,The University of Sheffield,Mexico,402850.6258034358
+1677,The University of Sheffield,Morocco,135258.13953488372
+1678,The University of Sheffield,Myanmar (Burma),405774.4186046512
+1679,The University of Sheffield,Nepal,267592.486268552
+1680,The University of Sheffield,Netherlands,402850.6258034358
+1681,The University of Sheffield,Nigeria,2552361.8943554983
+1682,The University of Sheffield,Norway,607199.7315063691
+1683,The University of Sheffield,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},132334.34673366832
+1684,The University of Sheffield,Oman,1145308.4968446884
+1685,The University of Sheffield,Pakistan,1208551.8774103073
+1686,The University of Sheffield,Paraguay,132334.34673366832
+1687,The University of Sheffield,Peru,538108.7653383195
+1688,The University of Sheffield,Philippines,399926.8330022204
+1689,The University of Sheffield,Poland,4120987.56661213
+1690,The University of Sheffield,Portugal,1280566.6363795723
+1691,The University of Sheffield,Qatar,673366.9048732033
+1692,The University of Sheffield,Romania,2293540.7864905926
+1693,The University of Sheffield,Russia,538108.7653383195
+1694,The University of Sheffield,Saudi,2874426.382786023
+1695,The University of Sheffield,Serbia,135258.13953488372
+1696,The University of Sheffield,Seychelles,135258.13953488372
+1697,The University of Sheffield,Singapore,2497889.8921935256
+1698,The University of Sheffield,Slovakia,267592.486268552
+1699,The University of Sheffield,South Africa,336683.4524366016
+1700,The University of Sheffield,Spain,1487839.534883721
+1701,The University of Sheffield,Sri Lanka,943883.1839429707
+1702,The University of Sheffield,Sudan,135258.13953488372
+1703,The University of Sheffield,Sweden,135258.13953488372
+1704,The University of Sheffield,Switzerland,604275.9387051536
+1705,The University of Sheffield,Taiwan,3746294.8077597287
+1706,The University of Sheffield,Thailand,1073293.7378754236
+1707,The University of Sheffield,Turkey,739534.0782400374
+1709,The University of Sheffield,Uganda,132334.34673366832
+1710,The University of Sheffield,Ukraine,135258.13953488372
+1711,The University of Sheffield,UAE,4120987.56661213
+1712,The University of Sheffield,United States,2005481.7506135325
+1713,The University of Sheffield,Uzbekistan,135258.13953488372
+1714,The University of Sheffield,Vietnam,402850.6258034358
+1715,The University of Sheffield,Zambia,135258.13953488372
+1716,The University of Sheffield,Zimbabwe,66167.17336683416
+1717,The University of Southampton,Australia,123003.91061452514
+1718,The University of Southampton,Austria,123003.91061452514
+1719,The University of Southampton,Bahrain,123003.91061452514
+1720,The University of Southampton,Bangladesh,252528.24394785846
+1721,The University of Southampton,Barbados,123003.91061452514
+1722,The University of Southampton,Belgium,492015.64245810057
+1723,The University of Southampton,Bermuda,369011.7318435754
+1724,The University of Southampton,Botswana,123003.91061452514
+1725,The University of Southampton,Brazil,252528.24394785846
+1726,The University of Southampton,British Virgin Islands,123003.91061452514
+1727,The University of Southampton,Brunei,369011.7318435754
+1728,The University of Southampton,Bulgaria,3321105.586592179
+1729,The University of Southampton,Canada,1612091.6834264433
+1730,The University of Southampton,Cayman Islands,246007.82122905029
+1731,The University of Southampton,Chile,252528.24394785846
+1732,The University of Southampton,China,127632195.04841712
+1733,The University of Southampton,Colombia,129524.33333333333
+1734,The University of Southampton,Croatia,123003.91061452514
+1735,The University of Southampton,Cyprus (European Union),3586674.675977654
+1736,The University of Southampton,Czech Republic,246007.82122905029
+1737,The University of Southampton,Ecuador,129524.33333333333
+1738,The University of Southampton,Egypt,498536.06517690874
+1739,The University of Southampton,Estonia,369011.7318435754
+1740,The University of Southampton,Finland,123003.91061452514
+1741,The University of Southampton,France,2097586.903165736
+1742,The University of Southampton,Germany,3327626.0093109873
+1743,The University of Southampton,Ghana,123003.91061452514
+1744,The University of Southampton,Greece,2356635.5698324023
+1745,The University of Southampton,Hong Kong (SAR),3852243.7653631284
+1746,The University of Southampton,Hungary,861027.3743016759
+1747,The University of Southampton,India,9040179.581936685
+1748,The University of Southampton,Indonesia,880588.6424581006
+1750,The University of Southampton,Iran,123003.91061452514
+1751,The University of Southampton,Ireland,1618612.1061452513
+1752,The University of Southampton,Italy,1359563.4394785846
+1753,The University of Southampton,Japan,498536.06517690874
+1754,The University of Southampton,Jordan,129524.33333333333
+1755,The University of Southampton,Kazakhstan,129524.33333333333
+1756,The University of Southampton,Kenya,246007.82122905029
+1757,The University of Southampton,Korea (South),252528.24394785846
+1758,The University of Southampton,Kuwait,123003.91061452514
+1759,The University of Southampton,Latvia,246007.82122905029
+1760,The University of Southampton,Lebanon,252528.24394785846
+1761,The University of Southampton,Lithuania,369011.7318435754
+1762,The University of Southampton,Luxembourg,246007.82122905029
+1763,The University of Southampton,Macao (Special Administrative Region of China),123003.91061452514
+1764,The University of Southampton,Malaysia,6163236.376163874
+1765,The University of Southampton,Maldives,123003.91061452514
+1766,The University of Southampton,Mauritius,498536.06517690874
+1767,The University of Southampton,Mexico,382052.5772811918
+1768,The University of Southampton,Morocco,123003.91061452514
+1769,The University of Southampton,Myanmar (Burma),123003.91061452514
+1770,The University of Southampton,Netherlands,246007.82122905029
+1771,The University of Southampton,Nigeria,1379124.7076350092
+1772,The University of Southampton,Norway,498536.06517690874
+1773,The University of Southampton,Oman,375532.1545623836
+1774,The University of Southampton,Pakistan,129524.33333333333
+1775,The University of Southampton,Peru,123003.91061452514
+1776,The University of Southampton,Philippines,123003.91061452514
+1777,The University of Southampton,Poland,1482567.3500931098
+1778,The University of Southampton,Portugal,369011.7318435754
+1779,The University of Southampton,Romania,1722054.7486033519
+1780,The University of Southampton,Russia,369011.7318435754
+1781,The University of Southampton,Saudi,887109.0651769087
+1782,The University of Southampton,Singapore,744543.886405959
+1783,The University of Southampton,Slovakia,246007.82122905029
+1784,The University of Southampton,South Africa,317290.41061452514
+1785,The University of Southampton,Spain,2091066.4804469272
+1786,The University of Southampton,Sri Lanka,621539.975791434
+1787,The University of Southampton,Sudan,123003.91061452514
+1788,The University of Southampton,Sweden,252528.24394785846
+1789,The University of Southampton,Switzerland,621539.975791434
+1790,The University of Southampton,Taiwan,1282202.487895717
+1791,The University of Southampton,Thailand,1793779.3985102419
+1792,The University of Southampton,Trinidad & Tobago,246007.82122905029
+1793,The University of Southampton,Turkey,1146157.7318435754
+1795,The University of Southampton,UAE,744543.886405959
+1796,The University of Southampton,United States,1631652.9515828677
+1797,The University of Southampton,Vietnam,751064.3091247672
+1798,The University of Southampton,Zimbabwe,123003.91061452514
+1799,The University of Warwick,Albania,141482.74111675128
+1800,The University of Warwick,Argentina,141482.74111675128
+1801,The University of Warwick,Armenia,141482.74111675128
+1802,The University of Warwick,Australia,421754.6435238251
+1803,The University of Warwick,Austria,848896.4467005077
+1804,The University of Warwick,Azerbaijan,349666.48305223515
+1805,The University of Warwick,Bahrain,282965.48223350255
+1806,The University of Warwick,Bangladesh,560543.8048141478
+1807,The University of Warwick,Belgium,1905976.6353364992
+1808,The University of Warwick,Botswana,280271.9024070739
+1809,The University of Warwick,Brazil,349666.48305223515
+1810,The University of Warwick,Brunei,282965.48223350255
+1811,The University of Warwick,Bulgaria,707413.7055837563
+1812,The University of Warwick,Canada,843509.2870476502
+1813,The University of Warwick,Cayman Islands,141482.74111675128
+1814,The University of Warwick,Chile,277578.32258064515
+1815,The University of Warwick,China,113346590.20075323
+1816,The University of Warwick,Colombia,277578.32258064515
+1817,The University of Warwick,Croatia,141482.74111675128
+1818,The University of Warwick,Cyprus (European Union),3104539.565089242
+1819,The University of Warwick,Czech Republic,565930.9644670051
+1820,The University of Warwick,Denmark,210877.32176191255
+1821,The University of Warwick,Egypt,632631.9652857378
+1822,The University of Warwick,Finland,141482.74111675128
+1823,The University of Warwick,France,11662898.61273948
+1824,The University of Warwick,Germany,3454206.0481414767
+1825,The University of Warwick,Ghana,629938.385459309
+1826,The University of Warwick,Gibraltar,141482.74111675128
+1827,The University of Warwick,Greece,2746792.342557721
+1828,The University of Warwick,Hong Kong (SAR),11769364.816112656
+1829,The University of Warwick,Hungary,2971137.5634517767
+1830,The University of Warwick,India,33253332.427705914
+1831,The University of Warwick,Indonesia,2103386.057966268
+1833,The University of Warwick,Iran,277578.32258064515
+1834,The University of Warwick,Ireland,696639.3862780416
+1835,The University of Warwick,Italy,3312723.3070247257
+1836,The University of Warwick,Japan,982298.4483379729
+1837,The University of Warwick,Jordan,421754.6435238251
+1838,The University of Warwick,Kazakhstan,1257183.1910921892
+1839,The University of Warwick,Kenya,1481528.4119862453
+1840,The University of Warwick,Korea (South),2247562.378909448
+1841,The University of Warwick,Kuwait,141482.74111675128
+1842,The University of Warwick,Kyrgyzstan,141482.74111675128
+1843,The University of Warwick,Latvia,282965.48223350255
+1844,The University of Warwick,Lebanon,843509.2870476502
+1845,The University of Warwick,Lithuania,1131861.9289340102
+1846,The University of Warwick,Luxembourg,1201256.5095791714
+1847,The University of Warwick,Macao (Special Administrative Region of China),282965.48223350255
+1848,The University of Warwick,Malaysia,10739220.425740954
+1849,The University of Warwick,Mauritius,565930.9644670051
+1850,The University of Warwick,Mexico,419061.0636973964
+1851,The University of Warwick,Monaco,141482.74111675128
+1852,The University of Warwick,Morocco,990379.187817259
+1853,The University of Warwick,Myanmar (Burma),282965.48223350255
+1854,The University of Warwick,Namibia,69394.58064516129
+1855,The University of Warwick,Nepal,280271.9024070739
+1856,The University of Warwick,Netherlands,774114.706402489
+1857,The University of Warwick,New Zealand,141482.74111675128
+1858,The University of Warwick,Nigeria,2874807.184542328
+1859,The University of Warwick,Norway,632631.9652857378
+1860,The University of Warwick,Oman,424448.22335025383
+1861,The University of Warwick,Pakistan,2730630.8635991486
+1862,The University of Warwick,Peru,419061.0636973964
+1863,The University of Warwick,Philippines,282965.48223350255
+1864,The University of Warwick,Poland,3603769.5287375143
+1865,The University of Warwick,Portugal,1836582.054691338
+1866,The University of Warwick,Qatar,141482.74111675128
+1867,The University of Warwick,Romania,3320804.0465040123
+1868,The University of Warwick,Russia,1337352.0910430653
+1869,The University of Warwick,Saudi,771421.1265760602
+1870,The University of Warwick,Seychelles,141482.74111675128
+1871,The University of Warwick,Singapore,3598382.369084657
+1872,The University of Warwick,Slovakia,565930.9644670051
+1873,The University of Warwick,South Africa,349666.48305223515
+1874,The University of Warwick,Spain,7210232.637301457
+1875,The University of Warwick,Sri Lanka,843509.2870476502
+1876,The University of Warwick,St Kitts and Nevis,69394.58064516129
+1877,The University of Warwick,Sudan,141482.74111675128
+1878,The University of Warwick,Sweden,563237.3846405764
+1879,The University of Warwick,Switzerland,2893662.2433273294
+1880,The University of Warwick,Syria,277578.32258064515
+1881,The University of Warwick,Taiwan,2922653.12657606
+1882,The University of Warwick,Tanzania,280271.9024070739
+1883,The University of Warwick,Thailand,3715622.89176355
+1884,The University of Warwick,Trinidad & Tobago,280271.9024070739
+1885,The University of Warwick,Turkey,1967290.4765023743
+1887,The University of Warwick,Ukraine,282965.48223350255
+1888,The University of Warwick,UAE,5141224.622236778
+1889,The University of Warwick,United States,1751025.9950876045
+1890,The University of Warwick,Uzbekistan,141482.74111675128
+1891,The University of Warwick,Vietnam,846202.8668740789
+1892,The University of Warwick,Zambia,69394.58064516129
+1893,The University of Warwick,Zimbabwe,349666.48305223515
+1894,The University of York,Afghanistan,119624.40000000001
+1895,The University of York,Australia,250714.3581589958
+1896,The University of York,Austria,262179.9163179916
+1897,The University of York,Azerbaijan,119624.40000000001
+1898,The University of York,Bahrain,262179.9163179916
+1899,The University of York,Bangladesh,250714.3581589958
+1900,The University of York,Belgium,524359.8326359832
+1901,The University of York,Brazil,370338.7581589958
+1902,The University of York,Bulgaria,524359.8326359832
+1903,The University of York,Canada,1741050.539748954
+1904,The University of York,Cayman Islands,131089.9581589958
+1905,The University of York,Chile,119624.40000000001
+1906,The University of York,China,76770194.75648536
+1907,The University of York,Colombia,358873.2
+1908,The University of York,Croatia,131089.9581589958
+1909,The University of York,Cyprus (European Union),381804.31631799164
+1910,The University of York,Czech Republic,262179.9163179916
+1911,The University of York,Denmark,262179.9163179916
+1912,The University of York,Egypt,262179.9163179916
+1913,The University of York,Estonia,131089.9581589958
+1914,The University of York,Finland,131089.9581589958
+1915,The University of York,France,1692703.8979079498
+1916,The University of York,Germany,1359246.2234309625
+1917,The University of York,Ghana,119624.40000000001
+1918,The University of York,Gibraltar,131089.9581589958
+1919,The University of York,Greece,1287968.4652719665
+1920,The University of York,Hong Kong (SAR),4567701.828451883
+1921,The University of York,Hungary,393269.87447698746
+1922,The University of York,India,6716928.69790795
+1923,The University of York,Indonesia,871767.4744769875
+1925,The University of York,Iran,119624.40000000001
+1926,The University of York,Ireland,250714.3581589958
+1927,The University of York,Italy,1609960.5815899582
+1928,The University of York,Japan,1002857.4326359832
+1929,The University of York,Jordan,262179.9163179916
+1930,The University of York,Kazakhstan,250714.3581589958
+1931,The University of York,Kenya,250714.3581589958
+1932,The University of York,Korea (South),1863159.348953975
+1933,The University of York,Kuwait,250714.3581589958
+1934,The University of York,Latvia,321992.11631799163
+1935,The University of York,Lebanon,250714.3581589958
+1936,The University of York,Lithuania,131089.9581589958
+1937,The University of York,Luxembourg,131089.9581589958
+1938,The University of York,Macao (Special Administrative Region of China),131089.9581589958
+1939,The University of York,Malaysia,1419058.4234309625
+1940,The University of York,Mexico,478497.60000000003
+1941,The University of York,Morocco,131089.9581589958
+1942,The University of York,Nepal,250714.3581589958
+1943,The University of York,Netherlands,381804.31631799164
+1944,The University of York,Nigeria,1301918.4326359832
+1945,The University of York,Norway,643984.2326359833
+1946,The University of York,Oman,250714.3581589958
+1947,The University of York,Pakistan,489963.1581589958
+1948,The University of York,Peru,250714.3581589958
+1949,The University of York,Philippines,131089.9581589958
+1950,The University of York,Poland,655449.7907949791
+1951,The University of York,Portugal,393269.87447698746
+1952,The University of York,Qatar,131089.9581589958
+1953,The University of York,Romania,393269.87447698746
+1954,The University of York,Russia,643984.2326359833
+1955,The University of York,Saudi,501428.7163179916
+1956,The University of York,Singapore,655449.7907949791
+1957,The University of York,Slovakia,131089.9581589958
+1958,The University of York,South Africa,250714.3581589958
+1959,The University of York,Spain,1478870.6234309624
+1960,The University of York,Sri Lanka,250714.3581589958
+1961,The University of York,Sweden,250714.3581589958
+1962,The University of York,Switzerland,906164.148953975
+1963,The University of York,Taiwan,501428.7163179916
+1964,The University of York,Thailand,1002857.4326359832
+1965,The University of York,Turkey,752143.0744769875
+1967,The University of York,UAE,1168344.0652719664
+1968,The University of York,United States,4920078.288702929
+1969,The University of York,Vietnam,250714.3581589958
+1970,The University of York,Zambia,381804.31631799164
+1971,The University of York,Zimbabwe,131089.9581589958
+1972,University College London,Afghanistan,83036.00952380951
+1973,University College London,Albania,636968.7439775909
+1974,University College London,Argentina,332144.03809523804
+1975,University College London,Armenia,470896.72492997197
+1976,University College London,Australia,1952963.2431372548
+1977,University College London,Austria,2008679.9204481794
+1978,University College London,Azerbaijan,636968.7439775909
+1979,University College London,Bahrain,470896.72492997197
+1980,University College London,Bangladesh,1260277.8218487394
+1981,University College London,Belarus,152412.35294117648
+1982,University College London,Belgium,3490746.438655462
+1983,University College London,Bermuda,166072.01904761902
+1984,University College London,Botswana,304824.70588235295
+1985,University College London,Brazil,1218220.8106442576
+1986,University College London,Brunei,457237.0588235294
+1987,University College London,Bulgaria,2923154.038095238
+1988,University College London,Canada,7477552.908683473
+1989,University College London,Canary Islands,152412.35294117648
+1990,University College London,Cayman Islands,318484.37198879546
+1991,University College London,Chile,1647060.5243697476
+1992,University College London,China,315483217.50420165
+1993,University College London,Colombia,1328576.1523809521
+1994,University College London,Croatia,304824.70588235295
+1995,University College London,Cuba,166072.01904761902
+1996,University College London,Cyprus (European Union),5513086.025210083
+1997,University College London,Czech Republic,2008679.9204481794
+1998,University College London,Denmark,789381.0969187674
+1999,University College London,Dominican Republic,166072.01904761902
+2000,University College London,Ecuador,332144.03809523804
+2001,University College London,Egypt,1426349.8408963582
+2002,University College London,Estonia,152412.35294117648
+2003,University College London,Finland,609649.4117647059
+2004,University College London,France,23467190.30140056
+2005,University College London,Georgia,318484.37198879546
+2006,University College London,Germany,7521765.945658263
+2007,University College London,Ghana,318484.37198879546
+2008,University College London,Gibraltar,152412.35294117648
+2009,University College London,Greece,5373255.325490195
+2010,University College London,Hong Kong (SAR),34891648.69467787
+2011,University College London,Hungary,4142452.8616246497
+2012,University College London,Iceland,166072.01904761902
+2013,University College London,India,20990493.19327731
+2014,University College London,Indonesia,6617717.455462184
+2016,University College London,Iran,1731174.5467787113
+2017,University College London,Iraq,166072.01904761902
+2018,University College London,Ireland,3295199.06162465
+2019,University College London,Israel,636968.7439775909
+2020,University College London,Italy,10333486.629131652
+2021,University College London,Jamaica,166072.01904761902
+2022,University College London,Japan,5110487.630812325
+2023,University College London,Jordan,623309.0778711485
+2024,University College London,Kazakhstan,1426349.8408963582
+2025,University College London,Kenya,955453.1159663865
+2026,University College London,Korea (South),9474729.188795518
+2027,University College London,Kuwait,1453669.1731092436
+2028,University College London,Latvia,304824.70588235295
+2029,University College London,Lebanon,2049658.918767507
+2030,University College London,Lithuania,1981360.588235294
+2031,University College London,Luxembourg,1399030.5086834733
+2032,University College London,Macao (Special Administrative Region of China),2008679.9204481794
+2033,University College London,Malaysia,19603320.82633053
+2034,University College London,Maldives,152412.35294117648
+2035,University College London,Malta,152412.35294117648
+2036,University College London,Mauritius,623309.0778711485
+2037,University College London,Mexico,1148844.4672268906
+2038,University College London,Monaco,152412.35294117648
+2039,University College London,Mongolia,152412.35294117648
+2040,University College London,Montenegro,152412.35294117648
+2041,University College London,Morocco,1232958.4896358543
+2042,University College London,Myanmar (Burma),470896.72492997197
+2043,University College London,Nepal,166072.01904761902
+2044,University College London,Netherlands,2423859.968067227
+2045,University College London,New Zealand,1080546.1366946779
+2046,University College London,Nigeria,1675457.869467787
+2047,University College London,North Macedonia,152412.35294117648
+2048,University College London,Norway,1440009.5070028012
+2049,University College London,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},166072.01904761902
+2050,University College London,Oman,318484.37198879546
+2051,University College London,Pakistan,3337256.0728291315
+2052,University College London,Peru,816700.4291316526
+2053,University College London,Philippines,623309.0778711485
+2054,University College London,Poland,6816498.87114846
+2055,University College London,Portugal,2174751.939495798
+2056,University College London,Puerto Rico,166072.01904761902
+2057,University College London,Qatar,553932.7344537815
+2058,University College London,Romania,6968911.224089636
+2059,University College London,Russia,5665498.37815126
+2060,University College London,Saudi,3336178.0599439773
+2061,University College London,Serbia,484556.39103641454
+2062,University College London,Seychelles,152412.35294117648
+2063,University College London,Singapore,16928196.80392157
+2064,University College London,Slovakia,1995020.2543417367
+2065,University College London,Slovenia,152412.35294117648
+2066,University College London,South Africa,803040.76302521
+2067,University College London,Spain,10334564.642016806
+2068,University College London,Sri Lanka,775721.4308123249
+2069,University College London,Sudan,166072.01904761902
+2070,University College London,Sweden,2161092.2733893557
+2071,University College London,Switzerland,5887287.074509803
+2072,University College London,Taiwan,5399496.644817927
+2073,University College London,Tajikistan,166072.01904761902
+2074,University College London,Tanzania,166072.01904761902
+2075,University College London,Thailand,6467461.128291316
+2076,University College London,Trinidad & Tobago,470896.72492997197
+2077,University College London,Tunisia,304824.70588235295
+2078,University College London,Turkey,6039699.427450981
+2080,University College London,Ukraine,1246618.155742297
+2081,University College London,UAE,5789513.385994397
+2082,University College London,United States,19423234.63977591
+2083,University College London,Uzbekistan,152412.35294117648
+2084,University College London,Venezuela,166072.01904761902
+2085,University College London,Vietnam,1551442.8616246497
+2086,University of Durham,Australia,417019.91150442476
+2087,University of Durham,Austria,417019.91150442476
+2088,University of Durham,Azerbaijan,139006.63716814158
+2089,University of Durham,Bahrain,139006.63716814158
+2090,University of Durham,Bangladesh,270864.90488467703
+2091,University of Durham,Belgium,826891.4535572433
+2092,University of Durham,Bermuda,139006.63716814158
+2093,University of Durham,Brazil,139006.63716814158
+2094,University of Durham,Brunei,139006.63716814158
+2095,University of Durham,Bulgaria,139006.63716814158
+2096,University of Durham,Canada,1427402.027733259
+2097,University of Durham,Cayman Islands,139006.63716814158
+2098,University of Durham,China,80962380.02578217
+2099,University of Durham,Colombia,131858.26771653543
+2100,University of Durham,Cyprus (European Union),687884.8163891018
+2101,University of Durham,Czech Republic,278013.27433628315
+2102,University of Durham,Denmark,139006.63716814158
+2103,University of Durham,Ecuador,139006.63716814158
+2104,University of Durham,Egypt,278013.27433628315
+2105,University of Durham,France,2560900.23343321
+2106,University of Durham,Germany,2320222.61514877
+2107,University of Durham,Ghana,139006.63716814158
+2108,University of Durham,Gibraltar,278013.27433628315
+2109,University of Durham,Greece,687884.8163891018
+2110,University of Durham,Hong Kong (SAR),15042904.100759529
+2111,University of Durham,Hungary,417019.91150442476
+2112,University of Durham,India,6880441.97268483
+2113,University of Durham,Indonesia,965898.0907253849
+2115,University of Durham,Ireland,482949.04536269244
+2116,University of Durham,Italy,1448847.1360880774
+2117,University of Durham,Japan,753813.9502473695
+2118,University of Durham,Kazakhstan,139006.63716814158
+2119,University of Durham,Kenya,417019.91150442476
+2120,University of Durham,Korea (South),2209809.455787053
+2121,University of Durham,Kuwait,270864.90488467703
+2122,University of Durham,Latvia,139006.63716814158
+2123,University of Durham,Lebanon,139006.63716814158
+2124,University of Durham,Lithuania,278013.27433628315
+2125,University of Durham,Luxembourg,278013.27433628315
+2126,University of Durham,Macao (Special Administrative Region of China),278013.27433628315
+2127,University of Durham,Malaysia,1660931.2765660929
+2128,University of Durham,Mauritius,139006.63716814158
+2129,University of Durham,Mexico,270864.90488467703
+2130,University of Durham,Morocco,139006.63716814158
+2131,University of Durham,Myanmar (Burma),139006.63716814158
+2132,University of Durham,Nepal,270864.90488467703
+2133,University of Durham,Netherlands,753813.9502473695
+2134,University of Durham,New Zealand,139006.63716814158
+2135,University of Durham,Nigeria,1090607.9889903143
+2136,University of Durham,Norway,695033.185840708
+2137,University of Durham,Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},131858.26771653543
+2138,University of Durham,Pakistan,1931796.1814507698
+2139,University of Durham,Peru,139006.63716814158
+2140,University of Durham,Philippines,139006.63716814158
+2141,University of Durham,Poland,760962.3196989757
+2142,University of Durham,Portugal,417019.91150442476
+2143,University of Durham,Qatar,204935.7710264093
+2144,University of Durham,Romania,556026.5486725663
+2145,University of Durham,Russia,834039.8230088495
+2146,University of Durham,Saudi,278013.27433628315
+2147,University of Durham,Singapore,5063019.702459759
+2148,University of Durham,Slovakia,278013.27433628315
+2149,University of Durham,South Africa,1112053.0973451326
+2150,University of Durham,Spain,1799937.9137342344
+2151,University of Durham,Sri Lanka,409871.5420528186
+2152,University of Durham,Sweden,343942.4081945509
+2153,University of Durham,Switzerland,2056506.0797156992
+2154,University of Durham,Taiwan,2555345.672775416
+2155,University of Durham,Thailand,3360792.017977841
+2156,University of Durham,Trinidad & Tobago,139006.63716814158
+2157,University of Durham,Turkey,1521924.6393979513
+2159,University of Durham,Ukraine,417019.91150442476
+2160,University of Durham,UAE,1734008.7798759667
+2161,University of Durham,United States,6368899.449515713
+2162,University of Durham,Venezuela,139006.63716814158
+2163,University of Durham,Vietnam,417019.91150442476
+2164,University of Durham,Zambia,139006.63716814158
+2165,University of Durham,Zimbabwe,139006.63716814158
+2166,University of Nottingham,Algeria,127935.29411764706
+2167,University of Nottingham,Australia,255870.58823529413
+2168,University of Nottingham,Austria,127935.29411764706
+2169,University of Nottingham,Azerbaijan,511741.17647058825
+2170,University of Nottingham,Bahrain,1020797.5546912979
+2171,University of Nottingham,Bangladesh,756872.5717063685
+2172,University of Nottingham,Barbados,125250.4958677686
+2173,University of Nottingham,Belgium,383805.8823529412
+2174,University of Nottingham,Bermuda,127935.29411764706
+2175,University of Nottingham,Bolivia,127935.29411764706
+2176,University of Nottingham,Brazil,255870.58823529413
+2177,University of Nottingham,Brunei,639676.4705882353
+2178,University of Nottingham,Bulgaria,639676.4705882353
+2179,University of Nottingham,Cambodia,127935.29411764706
+2180,University of Nottingham,Canada,762242.1682061255
+2181,University of Nottingham,Chile,378436.28585318424
+2182,University of Nottingham,China,78325571.97860962
+2183,University of Nottingham,Christmas Island,125250.4958677686
+2184,University of Nottingham,Colombia,125250.4958677686
+2185,University of Nottingham,Cyprus (European Union),3448883.3446767135
+2186,University of Nottingham,Czech Republic,127935.29411764706
+2187,University of Nottingham,Denmark,127935.29411764706
+2188,University of Nottingham,Ecuador,127935.29411764706
+2189,University of Nottingham,Egypt,1529853.932912008
+2190,University of Nottingham,Estonia,127935.29411764706
+2191,University of Nottingham,Finland,127935.29411764706
+2192,University of Nottingham,France,1595163.9790957705
+2193,University of Nottingham,Germany,1396549.0422946038
+2194,University of Nottingham,Ghana,1010058.3616917841
+2195,University of Nottingham,Gibraltar,127935.29411764706
+2196,University of Nottingham,Greece,1660474.0252795334
+2197,University of Nottingham,Hong Kong (SAR),7793313.748176957
+2198,University of Nottingham,Hungary,127935.29411764706
+2199,University of Nottingham,India,11998134.64268352
+2200,University of Nottingham,Indonesia,1647050.0340301408
+2202,University of Nottingham,Iran,509056.3782207098
+2203,University of Nottingham,Iraq,253185.78998541564
+2204,University of Nottingham,Ireland,955487.5085075353
+2205,University of Nottingham,Italy,1276668.1429265921
+2206,University of Nottingham,Japan,253185.78998541564
+2207,University of Nottingham,Jordan,1407288.2352941176
+2208,University of Nottingham,Kazakhstan,381121.08410306275
+2209,University of Nottingham,Kenya,1404603.4370442391
+2210,University of Nottingham,Korea (South),2038910.3111327176
+2211,University of Nottingham,Kuwait,5242662.260573651
+2212,University of Nottingham,Latvia,127935.29411764706
+2213,University of Nottingham,Lebanon,253185.78998541564
+2214,University of Nottingham,Lithuania,255870.58823529413
+2215,University of Nottingham,Luxembourg,127935.29411764706
+2216,University of Nottingham,Macao (Special Administrative Region of China),255870.58823529413
+2217,University of Nottingham,Malaysia,7159006.874088479
+2218,University of Nottingham,Maldives,127935.29411764706
+2219,University of Nottingham,Malta,127935.29411764706
+2220,University of Nottingham,Mauritius,127935.29411764706
+2221,University of Nottingham,Mexico,506371.5799708313
+2222,University of Nottingham,Morocco,127935.29411764706
+2223,University of Nottingham,Myanmar (Burma),127935.29411764706
+2224,University of Nottingham,Nepal,125250.4958677686
+2225,University of Nottingham,Netherlands,568996.8279047156
+2226,University of Nottingham,Nigeria,3555340.252795333
+2227,University of Nottingham,Norway,255870.58823529413
+2228,University of Nottingham,Oman,1535223.5294117648
+2229,University of Nottingham,Pakistan,1647050.0340301408
+2230,University of Nottingham,Peru,127935.29411764706
+2231,University of Nottingham,Philippines,125250.4958677686
+2232,University of Nottingham,Poland,1083422.8026251823
+2233,University of Nottingham,Portugal,895547.0588235294
+2234,University of Nottingham,Qatar,511741.17647058825
+2235,University of Nottingham,Romania,1020797.5546912979
+2236,University of Nottingham,Russia,636991.6723383568
+2237,University of Nottingham,Saudi,2406607.403986388
+2238,University of Nottingham,Serbia,127935.29411764706
+2239,University of Nottingham,Singapore,3067762.260573651
+2240,University of Nottingham,Slovakia,127935.29411764706
+2241,University of Nottingham,Slovenia,127935.29411764706
+2242,University of Nottingham,South Africa,383805.8823529412
+2243,University of Nottingham,Spain,1916344.6135148273
+2244,University of Nottingham,Sri Lanka,383805.8823529412
+2245,University of Nottingham,Sudan,255870.58823529413
+2246,University of Nottingham,Sweden,127935.29411764706
+2247,University of Nottingham,Switzerland,767611.7647058824
+2248,University of Nottingham,Taiwan,1393864.2440447253
+2249,University of Nottingham,Tanzania,253185.78998541564
+2250,University of Nottingham,Thailand,3699384.336412251
+2251,University of Nottingham,Trinidad & Tobago,253185.78998541564
+2252,University of Nottingham,Turkey,3062392.6640738943
+2254,University of Nottingham,Uganda,255870.58823529413
+2255,University of Nottingham,Ukraine,125250.4958677686
+2256,University of Nottingham,UAE,4279120.35731648
+2257,University of Nottingham,United States,1263244.1516771999
+2258,University of Nottingham,Vietnam,887492.664073894
+2259,University of Nottingham,Zambia,127935.29411764706
+2260,University of Nottingham,Zimbabwe,127935.29411764706
