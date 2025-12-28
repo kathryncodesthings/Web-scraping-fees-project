@@ -13,7 +13,7 @@ Where relevant, I include links to the full analysis and code.
 ### Business question
 The UK higher education sector is financially dependent on international students, particularly from China and Hong Kong (HK). 19% of the sector’s income is from overseas students (2021/22), and there is regulatory concern that it is exposed to financial risks if there is a drop in overseas students. (See ["International students in UK higher education"](https://researchbriefings.files.parliament.uk/documents/CBP-7976/CBP-7976.pdf) parliamentary research briefing, 28/05/2024.)
 
-This project assesses the extent of this dependency and evaluates how UCL compared to 24 similar universities known as the 'Russell Group'.
+This project assesses the extent of this dependency and evaluates how UCL compared to 24 similar universities.
 
 ### Approach
 
@@ -22,29 +22,32 @@ This project assesses the extent of this dependency and evaluates how UCL compar
 
 I prioritised tasks based on available time and data. Instead of analysing 160+ UK universities, I focused on UCL’s closest competitors, the [Russell Group](https://www.russellgroup.ac.uk/), which is an alliance of universities known for high-quality research and attracting international students.
 
-#### Web scraping
-I scraped fee data from 24 university websites (i.e. from the HTML source code) using BeautifulSoup. It required complex processing to extract meaningful information. An example is provided here. Note that this code is from 2024: the university website has since been updated and the code will no longer work.
+* Established requirements (see above)
+* Obtained data
+* Cleaned and initial investigation of data
+* Combined and visualised data
+* Investigated further
+* Drew concolusions
+* Presented results
 
-#### Other data
+#### Data
+
+##### Web scraping
+I scraped fee data from 24 university websites (i.e. from the HTML source code) using BeautifulSoup. It required complex processing to extract meaningful information. An example is provided [here](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Data%20Scraping%20-%20Bristol%20UG%20course%20data.ipynb). Note that this code is from 2024: the university website has since been updated and the code will no longer work.
+
+##### Other data
 I used public data  from HESA (the UK Higher Education Statistics Agency), which publishes statistics for UK universities:
 * Student demographics
 * University income
 
-#### Summary
-* Cleaned and standardised the dataset
-* Identified and handled outliers
-* Analysed the relationship between:
-  - Surplus/(deficit) as a percentage of income
-  - Net cash generated from operations as a percentage of income
-* Visualised the results to support clear communication with stakeholders
-
-![Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA_data_scatterplot.png "Scatterplot of Net cash vs. Surplus/deficit for UK HEIs, 2015-2024")
-
-### Juptyer Notebook
-The complete code I produced is here: [HESA KFI Analysis Python code](https://github.com/kathryncodesthings/python-data-projects/blob/main/HESA%20data%20analysis.ipynb)
-* step 1: link1
-* step 2: link 2
-
+### Juptyer Notebooks
+Samples from relevant notebooks are linked below.
+* Web scraping fee data ([**example** code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Data%20Scraping%20-%20Bristol%20UG%20course%20data.ipynb))
+* Cleaning fee data and intitial visualisation of fee data ([sample of code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Fee%20data%20cleaning%2C%20exploration%20and%20visualisation%20part%201.ipynb))
+* Visualising student demographic data from HESA ([sample of code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Visualise%20students%20by%20country.ipynb))
+* combined and visualised data to show estimates of different universities' reliance on fees from overseas students ([code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/Fee%20data%20cleaning%20and%20combination%20with%20income%20and%20student%20demographic%20data.ipynb)
+* investigated further
+  
 ### Conclusions
 The key finding is that UCL has the most income in £ terms from international students among RG universities, primarily from China. UCL has fewer students from India, indicating growth potential. King's and Manchester also have higher international fee income, mainly from China. 
 
