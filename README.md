@@ -22,6 +22,34 @@ The analysis focuses on UCL and 23 comparable institutions.
 
 ### Approach
 
+#### Underlying method
+There is no publicly available data on how much fee income each UK university gets from each country's students.
+
+I could obtain:
+* The average fee charged to overseas students (via web scraping and data processing)
+* The number of overseas students at each university by country - publicly available from HESA (the UK Higher Education Statistics Agency), which publishes statistics for UK universities
+* The total income for each university (also available from HESA)
+
+I theorised that I could reach a reasonable estimate of fee income by country, suitable for high-level analysis as follows:
+* the average fee for postgraduate and undergraduate courses, for overseas students
+* multiplying the average fee by the number of students from each overseas country for each university
+* and for extra context, showing this as a percentage of their total income.
+
+For example: 
+* The 'University of Poppleton' has an average fee of £35,451 for postgraduate students.
+* The student demographic data shows that there are 1,000 overseas postgraduate students studying at Poppleton. 100 are from China, 150 are from India, etc.
+* Poppleton has a total income of £100m.
+
+Therefore:
+* Poppleton gets an estimated £35,451 x 3,000 = £35m from overseas postgraduate student fees.
+  * £3.5m is from students from China, etc.
+* This is an estimated 35% of its income.
+
+This would be used to assesses:
+* How concentrated international fee income is by country
+* How exposed UCL is relative to similar universities
+* Which institutions face the greatest financial risk from a drop in international students
+
 #### Project overview
 Given time and data constraints, I focused on UCL’s closest peer group rather than all 160+ UK universities. I selected the Russell Group, a set of research-intensive universities that compete for the same international students.
 
@@ -34,8 +62,9 @@ The overall workflow was:
 1. Define requirements with stakeholders
 2. Obtain and combine multiple data sources
 3. Clean and explore the data
-4. Analyse and visualise results
-5. Draw conclusions and communicate findings
+4. Combine fee data with the data on university demographics
+5. Analyse and visualise results
+6. Draw conclusions and communicate findings
 
 #### Data
 
