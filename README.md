@@ -95,7 +95,11 @@ Samples from relevant notebooks are linked below.
 * combined and visualised data to show estimates of different universities' reliance on fees from overseas students ([sample code](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/notebooks/Notebook%2004%20-%20Fee%20data%20cleaning%20and%20combination%20with%20income%20and%20student%20demographic%20data.ipynb))
   
 ### Conclusions
-To understand the financial impacts of losing students and the relative positions of the Russell Group universities, I began by visualising average PG fees. This shows that fees are generally around the £30-20k range, with a few universities charging more.
+To understand the financial impacts of losing students and the relative positions of the Russell Group universities, I began by visualising average PG fees. This shows that fees are generally around the £30-20k range, with a few universities charging more, such as Oxford and Imperial:
+
+![Violin plot of fees charged for 23/24](https://github.com/kathryncodesthings/Web-scraping-fees-project/blob/main/img/violin%20plot.png "Violin plot of fees charged for 23/24")
+
+I decided to use a violin plot rather than a box and whisker plot as it shows the frequency of fees at every point: e.g., this violin plot shows that there are two universities that have a concentration of fees in the £42,000 range, Imperial and Oxford.
 
 To understand the estimated financial risks, I visualised the average fee, multiplied by students from each country for 21/22. The largest amount of income by far comes from China and HK (£6.8bn).
 
